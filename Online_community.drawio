@@ -119,6 +119,9 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bridge" vertex="1">
           <mxGeometry height="30" width="80" x="760" y="800" as="geometry" />
         </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Broker" vertex="1">
+          <mxGeometry height="30" width="60" x="900" y="655" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
