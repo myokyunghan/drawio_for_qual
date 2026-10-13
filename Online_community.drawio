@@ -14,7 +14,7 @@
           <mxGeometry height="40" width="810" x="610" y="650" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="120" x="1000" y="585" as="geometry" />
+          <mxGeometry height="255" width="120" x="870" y="585" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="255" width="120" x="740" y="585" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry height="60" width="170" x="505" y="545" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Intergenerational Closure" vertex="1">
-          <mxGeometry height="30" width="60" x="1030" y="770" as="geometry" />
+          <mxGeometry height="30" width="60" x="900" y="770" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Strength of Weak Ties" vertex="1">
           <mxGeometry height="30" width="80" x="755" y="730" as="geometry" />
@@ -84,25 +84,25 @@
           <mxGeometry height="30" width="90" x="755" y="600" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Coleman&lt;br&gt;&lt;div&gt;(1988)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1015" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="120" x="870" y="585" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Gould&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1996)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="885" y="600" as="geometry" />
         </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="1129" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Gould&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1996)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1144" y="600" as="geometry" />
+        </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="120" x="1130" y="585" as="geometry" />
+          <mxGeometry height="255" width="120" x="1000" y="585" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Burt&lt;br&gt;&lt;div&gt;(1988)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1145" y="600" as="geometry" />
+          <mxGeometry height="30" width="90" x="1015" y="600" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Structural Hole" vertex="1">
-          <mxGeometry height="30" width="60" x="1132" y="655" as="geometry" />
+          <mxGeometry height="30" width="60" x="1002" y="655" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Closure" vertex="1">
-          <mxGeometry height="30" width="60" x="1188" y="655" as="geometry" />
+          <mxGeometry height="30" width="60" x="1058" y="655" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="255" width="120" x="1260" y="585" as="geometry" />
@@ -120,7 +120,10 @@
           <mxGeometry height="30" width="80" x="760" y="800" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Broker" vertex="1">
-          <mxGeometry height="30" width="60" x="900" y="655" as="geometry" />
+          <mxGeometry height="30" width="60" x="1159" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Patron-Client ties" vertex="1">
+          <mxGeometry height="30" width="60" x="1159" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
