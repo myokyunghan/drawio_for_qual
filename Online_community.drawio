@@ -33,7 +33,7 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-16" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ucDS1HnYb55yJlDoRsUz-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="구성물?" vertex="1">
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="상호작용 구성물?" vertex="1">
           <mxGeometry height="60" width="170" x="190" y="545" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="노드(에이전트)" vertex="1">
@@ -54,7 +54,7 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-24" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ucDS1HnYb55yJlDoRsUz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="구조 해석?" vertex="1">
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="상호작용 해석?" vertex="1">
           <mxGeometry height="60" width="170" x="505" y="545" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="에이전트의 위치" vertex="1">
@@ -63,8 +63,26 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="에이전트 간 관계" vertex="1">
           <mxGeometry height="40" width="120" x="610" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="패턴" vertex="1">
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="거시적 패턴" vertex="1">
           <mxGeometry height="40" width="120" x="610" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Structural Hole" vertex="1">
+          <mxGeometry height="30" width="60" x="950" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Intergenerational Closure" vertex="1">
+          <mxGeometry height="30" width="60" x="1090" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Closure" vertex="1">
+          <mxGeometry height="30" width="60" x="950" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Strength of Weak Ties" vertex="1">
+          <mxGeometry height="30" width="80" x="760" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The structural impact of norm" vertex="1">
+          <mxGeometry height="30" width="110" x="1150" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="585" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
