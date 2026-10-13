@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1414" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="1000" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="740" y="585" as="geometry" />
+        </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-3" edge="1" parent="1" source="C5zGfcPvV_lGLZ9o4g9W-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ucDS1HnYb55yJlDoRsUz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -66,23 +72,44 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="거시적 패턴" vertex="1">
           <mxGeometry height="40" width="120" x="610" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Structural Hole" vertex="1">
-          <mxGeometry height="30" width="60" x="950" y="660" as="geometry" />
-        </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Intergenerational Closure" vertex="1">
-          <mxGeometry height="30" width="60" x="1090" y="730" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Closure" vertex="1">
-          <mxGeometry height="30" width="60" x="950" y="730" as="geometry" />
+          <mxGeometry height="30" width="60" x="1030" y="730" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Strength of Weak Ties" vertex="1">
-          <mxGeometry height="30" width="80" x="760" y="660" as="geometry" />
+          <mxGeometry height="30" width="80" x="755" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Granovetter&lt;div&gt;(1977)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="755" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Colman&lt;br&gt;&lt;div&gt;(1988)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1015" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="870" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Gould et al&lt;br&gt;&lt;div&gt;(1996)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="885" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="1130" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Burt&lt;br&gt;&lt;div&gt;(1988)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1145" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Structural Hole" vertex="1">
+          <mxGeometry height="30" width="60" x="1160" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Closure" vertex="1">
+          <mxGeometry height="30" width="60" x="1160" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="1260" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Bearman et al.&lt;br&gt;&lt;div&gt;(2004)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1275" y="600" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The structural impact of norm" vertex="1">
-          <mxGeometry height="30" width="110" x="1150" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="750" y="585" as="geometry" />
+          <mxGeometry height="30" width="110" x="1265" y="800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
