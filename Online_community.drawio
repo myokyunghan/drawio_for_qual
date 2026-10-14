@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="806" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,11 +98,8 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Burt&lt;br&gt;&lt;div&gt;(1988)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1015" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Structural Hole" vertex="1">
-          <mxGeometry height="30" width="60" x="1002" y="655" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Closure" vertex="1">
-          <mxGeometry height="30" width="60" x="1058" y="655" as="geometry" />
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Structural Hole&lt;div&gt;Network Closure&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="655" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="255" width="120" x="1260" y="585" as="geometry" />
@@ -124,6 +121,9 @@
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Patron-Client ties" vertex="1">
           <mxGeometry height="30" width="60" x="1159" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Closure within&lt;div&gt;Brokerage beyond&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1000" y="765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
