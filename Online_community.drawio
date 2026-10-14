@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1704" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" value="" vertex="1">
           <mxGeometry height="50" width="250" x="870" y="534" as="geometry" />
+        </mxCell>
+        <mxCell id="QsB6XBWs7TkywBqtYwsX-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;네트워크 분석으로 사회자본을 측정할 수 있는가? 측정할 수 있다면 왜? 측정 불가능 하다면 왜?&lt;br&gt;&lt;/font&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;알겠는데 모르겠는 부분입니다.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;만약 네트워크 방법론을 사용하지 않는다면 사회자본을 어떻게 측정할 수 있는가?&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;자연어 처리 방법으로 가능한가&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;설문조사로는 가능한가&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;LLM을 활용하여 분석 가능한가?&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="534" x="613" y="870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
