@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="992" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="2118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,10 +135,10 @@
           <mxGeometry height="30" width="60" x="610" y="605" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="사회 자본" vertex="1">
-          <mxGeometry height="40" width="120" x="935" y="494" as="geometry" />
+          <mxGeometry height="40" width="120" x="935" y="210" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-67" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="??????" vertex="1">
-          <mxGeometry height="60" width="170" x="670" y="310" as="geometry" />
+          <mxGeometry height="60" width="170" x="630" y="200" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-68" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ucDS1HnYb55yJlDoRsUz-65">
           <mxGeometry relative="1" as="geometry">
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" value="" vertex="1">
-          <mxGeometry height="50" width="250" x="870" y="534" as="geometry" />
+          <mxGeometry height="334" width="250" x="870" y="250" as="geometry" />
         </mxCell>
         <mxCell id="QsB6XBWs7TkywBqtYwsX-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;네트워크 이론으로 사회자본을 측정할 수 있는가? 측정할 수 있다면 왜? 측정 불가능 하다면 왜?&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;알겠는데 모르겠는 부분입니다.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;만약 네트워크로&amp;nbsp; 이론을 사용하지 않는다면 사회자본을 어떻게 측정할 수 있는가?&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;자연어 처리 방법으로 가능한가&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;설문조사로는 가능한가&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;LLM을 활용하여 분석 가능한가?&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;학력은 사회자본인가? collective knowledge는 사회자본인가?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="140" width="534" x="778" y="950" as="geometry" />
