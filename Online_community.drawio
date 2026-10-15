@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="625" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,10 +173,10 @@
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#0f1111&quot; face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;사회자본&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="935" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="rLVTjc8L4_w8k9dLyB5M-4" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;개인입장에서의 사회자본" vertex="1">
+        <mxCell id="rLVTjc8L4_w8k9dLyB5M-4" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;관계의 관점에서의 사회자본" vertex="1">
           <mxGeometry height="40" width="810" x="1365" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="rLVTjc8L4_w8k9dLyB5M-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;집단입장에서의 사회자본" vertex="1">
+        <mxCell id="rLVTjc8L4_w8k9dLyB5M-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;거시적 관점에서의 사회자본" vertex="1">
           <mxGeometry height="40" width="810" x="1365" y="280" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
@@ -184,6 +184,9 @@
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Bourdieu&lt;div&gt;(1986)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1535" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rLVTjc8L4_w8k9dLyB5M-10" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="50" width="55.56" x="1552.22" y="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
