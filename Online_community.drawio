@@ -260,6 +260,9 @@
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1490" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="rLVTjc8L4_w8k9dLyB5M-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;집단 소속을 leverage 해서 얻을 수 있는 실제적 잠재적자원의 총합&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1475" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
