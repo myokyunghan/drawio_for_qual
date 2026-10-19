@@ -266,9 +266,6 @@
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;사회전체&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1883" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="g0Nhq63hVkF9bFyseFyn-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1475" y="70" as="geometry" />
-        </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="875" y="545" as="geometry" />
         </mxCell>
@@ -293,6 +290,12 @@
             <mxPoint x="1390" y="490" as="sourcePoint" />
             <mxPoint x="1440" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g0Nhq63hVkF9bFyseFyn-24" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어해요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="1613" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g0Nhq63hVkF9bFyseFyn-25" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어해요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="1485" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
