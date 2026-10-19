@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1371" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1982" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,7 @@
           <mxGeometry height="30" width="90" x="1490" y="170" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;소속 집단&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1490" y="215" as="geometry" />
+          <mxGeometry height="30" width="90" x="1490" y="213" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1490" y="285" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry height="30" width="90" x="2015" y="170" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인 네트워크&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2015" y="215" as="geometry" />
+          <mxGeometry height="30" width="90" x="2015" y="213" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="2015" y="285" as="geometry" />
@@ -234,7 +234,7 @@
           <mxGeometry height="30" width="90" x="1625" y="170" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;소속 집단의 구조&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1625" y="215" as="geometry" />
+          <mxGeometry height="30" width="90" x="1625" y="213" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;집단 구성원 전체&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1625" y="285" as="geometry" />
@@ -246,7 +246,7 @@
           <mxGeometry height="30" width="90" x="1755" y="170" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;단절된 집단에서의 중계 위치&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1758" y="210" as="geometry" />
+          <mxGeometry height="30" width="90" x="1758" y="213" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1755" y="285" as="geometry" />
@@ -258,7 +258,7 @@
           <mxGeometry height="30" width="90" x="1883" y="170" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;사회 전체의 신뢰 참여&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1890" y="215" as="geometry" />
+          <mxGeometry height="30" width="90" x="1890" y="213" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;사회전체&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1883" y="285" as="geometry" />
