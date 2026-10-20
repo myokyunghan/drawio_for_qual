@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="2384" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,11 +131,11 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 153), rgb(237, 237, 237));&quot;&gt;Closure within&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;Brokerage beyond&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1000" y="765" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="&lt;b&gt;Closure&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="613" y="620" as="geometry" />
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="&lt;b&gt;Bonding&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="611" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="&lt;b style=&quot;color: rgb(255, 153, 51);&quot;&gt;Bridge&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="610" y="605" as="geometry" />
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="&lt;b style=&quot;color: rgb(255, 153, 51);&quot;&gt;Bridging&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="611" y="605" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-2" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-65" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="rLVTjc8L4_w8k9dLyB5M-1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +206,7 @@
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1490" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="rLVTjc8L4_w8k9dLyB5M-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;동원 가능한 실제적 잠재적 자원&lt;/span&gt;" vertex="1">
+        <mxCell id="rLVTjc8L4_w8k9dLyB5M-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;동원 가능한 실제적 잠재적 &lt;b&gt;자원&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1475" y="210" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;소속 집단&lt;/span&gt;" vertex="1">
@@ -269,7 +269,7 @@
         <mxCell id="g0Nhq63hVkF9bFyseFyn-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="875" y="545" as="geometry" />
         </mxCell>
-        <mxCell id="g0Nhq63hVkF9bFyseFyn-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;행위를 용이하게/제한하는 구조의 기능&lt;/span&gt;" vertex="1">
+        <mxCell id="g0Nhq63hVkF9bFyseFyn-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;행위를 용이하게/제한하는 구조의 &lt;b&gt;기능&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1608" y="210" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;중개로 얻는 정보나 통제이익&lt;/span&gt;" vertex="1">
@@ -278,7 +278,7 @@
         <mxCell id="g0Nhq63hVkF9bFyseFyn-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;신뢰, 규범, 네트워크와 같은 사회 조직 특성&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1870" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="g0Nhq63hVkF9bFyseFyn-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;네트워크에 배태된 자원&lt;/span&gt;" vertex="1">
+        <mxCell id="g0Nhq63hVkF9bFyseFyn-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;네트워크에 배태된 &lt;b&gt;자원&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="2000" y="210" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-23" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-27" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rLVTjc8L4_w8k9dLyB5M-23" value="">
@@ -302,6 +302,16 @@
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;b&gt;사회&lt;/b&gt;에 집중" vertex="1">
           <mxGeometry height="23.75" width="90" x="1365" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Zinn00eNQah0uDNXjRJ4-1" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-26" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rLVTjc8L4_w8k9dLyB5M-27" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.5353" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="460" />
+              <mxPoint x="1803" y="460" />
+            </Array>
+            <mxPoint x="1500" y="919" as="sourcePoint" />
+            <mxPoint x="2240" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
