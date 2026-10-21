@@ -8,13 +8,13 @@
           <mxGeometry height="40" width="810" x="1365" y="210" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-54" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;네트워크 패턴" vertex="1">
-          <mxGeometry height="40" width="1630" x="610" y="795" as="geometry" />
+          <mxGeometry height="40" width="810" x="610" y="795" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-52" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;에이전트 간 관계" vertex="1">
-          <mxGeometry height="40" width="1630" x="610" y="725" as="geometry" />
+          <mxGeometry height="40" width="810" x="610" y="725" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-50" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;에이전트 위치" vertex="1">
-          <mxGeometry height="40" width="1630" x="610" y="650" as="geometry" />
+          <mxGeometry height="40" width="810" x="610" y="650" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="255" width="120" x="870" y="585" as="geometry" />
@@ -330,6 +330,18 @@
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="&lt;font color=&quot;#ff9933&quot;&gt;Bridging&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1900" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="TgDSCae3wYclYwrI2jE5-12" edge="1" parent="1" source="TgDSCae3wYclYwrI2jE5-5" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rLVTjc8L4_w8k9dLyB5M-35" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.6317" as="geometry">
+            <mxPoint x="1650" y="899" as="sourcePoint" />
+            <mxPoint x="2390" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDSCae3wYclYwrI2jE5-13" edge="1" parent="1" source="TgDSCae3wYclYwrI2jE5-11" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rLVTjc8L4_w8k9dLyB5M-31" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.6317" as="geometry">
+            <mxPoint x="1530" y="960" as="sourcePoint" />
+            <mxPoint x="1530" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
