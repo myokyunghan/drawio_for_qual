@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1930" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2322" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,20 +316,20 @@
         <mxCell id="TgDSCae3wYclYwrI2jE5-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Bourdieu&lt;br&gt;&lt;div&gt;(1986)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1490" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="TgDSCae3wYclYwrI2jE5-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;내가 동원할 수 있는&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;네트워크 사이즈&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&amp;nbsp;X&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;나와 연결된 사람들이&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;가진 자본의 양&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="TgDSCae3wYclYwrI2jE5-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;내가 동원할 수 있는&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;네트워크 사이즈&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&amp;nbsp;X&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;나와 연결된 사람들이&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;가진 자본의 양&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="120" x="1475" y="706" as="geometry" />
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="255" width="120" x="1870" y="585" as="geometry" />
+          <mxGeometry height="255" width="120" x="1610" y="585" as="geometry" />
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Putnam&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1885" y="600" as="geometry" />
+          <mxGeometry height="30" width="90" x="1625" y="600" as="geometry" />
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="Bonding" vertex="1">
-          <mxGeometry height="30" width="60" x="1900" y="775" as="geometry" />
+          <mxGeometry height="30" width="60" x="1640" y="775" as="geometry" />
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000099,#EDEDED);" value="&lt;font color=&quot;#ff9933&quot;&gt;Bridging&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1900" y="760" as="geometry" />
+          <mxGeometry height="30" width="60" x="1640" y="760" as="geometry" />
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-12" edge="1" parent="1" source="TgDSCae3wYclYwrI2jE5-5" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rLVTjc8L4_w8k9dLyB5M-35" value="">
           <mxGeometry height="50" relative="1" width="50" x="-0.6317" as="geometry">
