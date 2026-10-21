@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="978" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,9 +260,6 @@
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인의 사적이익&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;공동체의 공적이익&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1883" y="354" as="geometry" />
         </mxCell>
-        <mxCell id="g0Nhq63hVkF9bFyseFyn-16" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어해요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="875" y="545" as="geometry" />
-        </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;행위를 용이하게/제한하는 구조의 &lt;b&gt;기능&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1608" y="210" as="geometry" />
         </mxCell>
@@ -284,9 +281,6 @@
             <mxPoint x="1390" y="490" as="sourcePoint" />
             <mxPoint x="1440" y="440" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g0Nhq63hVkF9bFyseFyn-24" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어해요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="1613" y="90" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-25" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;싫어해요?&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="1485" y="90" as="geometry" />
