@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="2764" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,22 +361,16 @@
             <mxPoint x="2180" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AWHQmhJ_QrZdobIPUFMp-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인&amp;nbsp;환경이라면?" vertex="1">
+        <mxCell id="AWHQmhJ_QrZdobIPUFMp-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인&amp;nbsp;환경의&amp;nbsp; 사회자본?" vertex="1">
           <mxGeometry height="60" width="170" x="1144" y="-377" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="255" width="120" x="1868" y="-440" as="geometry" />
+          <mxGeometry height="123" width="120" x="1868" y="-440" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Putnam&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1881" y="-430" as="geometry" />
         </mxCell>
-        <mxCell id="AWHQmhJ_QrZdobIPUFMp-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;공동체 활동과 사회 교류&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="1868" y="-317" as="geometry" />
-        </mxCell>
-        <mxCell id="AWHQmhJ_QrZdobIPUFMp-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인의 사적이익&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;공동체의 공적이익&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1881" y="-239" as="geometry" />
-        </mxCell>
-        <mxCell id="AWHQmhJ_QrZdobIPUFMp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;인터넷 공동체는 직접적인 ㅐ대면 공동체를 보완할 뿐 대체하지 ㅇ낳을 것&lt;/span&gt;" vertex="1">
+        <mxCell id="AWHQmhJ_QrZdobIPUFMp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;인터넷 공동체는&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;대면 공동체를 보완할 뿐 대체하지 않을 것&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1868" y="-383" as="geometry" />
         </mxCell>
       </root>
