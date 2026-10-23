@@ -391,7 +391,7 @@
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Wellman&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1665" y="-390" as="geometry" />
         </mxCell>
-        <mxCell id="AWHQmhJ_QrZdobIPUFMp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;" vertex="1">
+        <mxCell id="AWHQmhJ_QrZdobIPUFMp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1654" y="-343" as="geometry" />
         </mxCell>
       </root>
