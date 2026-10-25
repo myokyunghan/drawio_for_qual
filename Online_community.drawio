@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1952" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2430" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         <mxCell id="ucDS1HnYb55yJlDoRsUz-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="상호작용 해석?" vertex="1">
           <mxGeometry height="60" width="170" x="505" y="545" as="geometry" />
         </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 153), rgb(237, 237, 237));&quot;&gt;Intergenerational Closure&lt;/span&gt;" vertex="1">
+        <mxCell id="ucDS1HnYb55yJlDoRsUz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 153), rgb(237, 237, 237));&quot;&gt;Intergenerational &lt;b&gt;Closure&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="900" y="765" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Strength of Weak Ties" vertex="1">
@@ -91,12 +91,6 @@
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Coleman&lt;br&gt;&lt;div&gt;(1988)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="885" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="120" x="1129" y="585" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Gould&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(1996)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1144" y="600" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="255" width="120" x="1000" y="585" as="geometry" />
@@ -121,12 +115,6 @@
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;Bridge&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="760" y="765" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;Broker&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1159" y="655" as="geometry" />
-        </mxCell>
-        <mxCell id="ucDS1HnYb55yJlDoRsUz-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Patron-Client ties" vertex="1">
-          <mxGeometry height="30" width="60" x="1159" y="730" as="geometry" />
         </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 153), rgb(237, 237, 237));&quot;&gt;Closure within&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;Brokerage beyond&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1000" y="765" as="geometry" />
@@ -161,7 +149,7 @@
           <mxGeometry height="140" width="534" x="323" y="860" as="geometry" />
         </mxCell>
         <mxCell id="3xQ5aukFp1BwGeDQb0km-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" value="" vertex="1">
-          <mxGeometry height="50" width="250" x="879" y="850" as="geometry" />
+          <mxGeometry height="50" width="241" x="870" y="850" as="geometry" />
         </mxCell>
         <mxCell id="3xQ5aukFp1BwGeDQb0km-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 17); font-family: Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;author notFaded&quot; style=&quot;box-sizing: border-box; color: rgb(15, 17, 17); font-family: Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a class=&quot;a-link-normal&quot; href=&quot;https://www.amazon.com/Duncan-J-Watts/e/B001ILHHR4/ref=dp_byline_cont_book_1&quot; style=&quot;box-sizing: border-box; text-decoration: none; color: rgb(33, 98, 161);&quot;&gt;Duncan J. Watts&lt;/a&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="944" y="900" as="geometry" />
@@ -396,6 +384,12 @@
         </mxCell>
         <mxCell id="dJORfCXNRMwTQDduBPWn-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ff9933&quot;&gt;Structural hole&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1000" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="dJORfCXNRMwTQDduBPWn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="255" width="120" x="1130" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="dJORfCXNRMwTQDduBPWn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Uzzi&lt;div&gt;(1996)&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1145" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
