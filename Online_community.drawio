@@ -349,13 +349,17 @@
             <mxPoint x="2180" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-8" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-9" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485" y="-346.25" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-9" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-10" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485" y="-346.25" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-10" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-7">
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-20" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인&amp;nbsp;환경의&amp;nbsp; 사회자본?" vertex="1">
@@ -377,43 +381,58 @@
           <mxGeometry height="30" width="90" x="1145" y="600" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;increase&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="445" x="1365" y="-366.25" as="geometry" />
+          <mxGeometry height="40" width="445" x="1623" y="-366.25" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-6" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;supplement&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="445" x="1365" y="-305.25" as="geometry" />
+          <mxGeometry height="40" width="445" x="1623" y="-305.25" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-7" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;decrease&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="445" x="1365" y="-231.25" as="geometry" />
+          <mxGeometry height="40" width="445" x="1623" y="-231.25" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="248" width="120" x="1651" y="-418" as="geometry" />
+          <mxGeometry height="248" width="120" x="1909" y="-418" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Putnam&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1664" y="-408" as="geometry" />
+          <mxGeometry height="30" width="90" x="1922" y="-408" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;인터넷 공동체는&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;대면 공동체를 보완할 뿐 대체하지 않을 것&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1651" y="-361" as="geometry" />
+          <mxGeometry height="40" width="120" x="1909" y="-361" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="248" width="120" x="1485" y="-418" as="geometry" />
+          <mxGeometry height="248" width="120" x="1743" y="-418" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Wellman&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1496" y="-408" as="geometry" />
+          <mxGeometry height="30" width="90" x="1754" y="-408" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1485" y="-361" as="geometry" />
+          <mxGeometry height="40" width="120" x="1743" y="-361" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="159" x="1831" y="-418" as="geometry" />
+          <mxGeometry height="255" width="159" x="1530" y="-690" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Haythornthwaite&lt;br&gt;&lt;div&gt;(2002)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1870" y="-408" as="geometry" />
+          <mxGeometry height="30" width="90" x="1569" y="-680" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;increase social capital commonly embedded in weak tie&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="159" x="1831" y="-366.25" as="geometry" />
+          <mxGeometry height="40" width="159" x="1530" y="-638.25" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;decrease social capital commonly embedded in strong tie&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="159" x="1831" y="-231.25" as="geometry" />
+          <mxGeometry height="40" width="159" x="1530" y="-503.25" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-15" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SkhLLc9zeO8zVeCm2dUm-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="-280" as="sourcePoint" />
+            <mxPoint x="1365" y="-553.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-23" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="온라인 환경 → 사회 자본" vertex="1">
+          <mxGeometry height="40" width="135" x="1340" y="-366.25" as="geometry" />
+        </mxCell>
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&amp;nbsp;매체(CMC)&lt;/div&gt;&amp;nbsp; ↓&lt;br&gt;온라인 환경 → 사회 자본" vertex="1">
+          <mxGeometry height="60" width="135" x="1340" y="-583.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
