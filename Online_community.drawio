@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1884" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1645" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,6 +362,14 @@
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-20" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-24" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="-347" />
+              <mxPoint x="1320" y="-553.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인&amp;nbsp;환경의&amp;nbsp; 사회자본?" vertex="1">
           <mxGeometry height="60" width="170" x="1144" y="-377" as="geometry" />
         </mxCell>
@@ -418,12 +426,6 @@
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;decrease social capital commonly embedded in strong tie&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="159" x="1530" y="-503.25" as="geometry" />
-        </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-15" edge="1" parent="1" source="AWHQmhJ_QrZdobIPUFMp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SkhLLc9zeO8zVeCm2dUm-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="-280" as="sourcePoint" />
-            <mxPoint x="1365" y="-553.25" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-23" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-5">
           <mxGeometry relative="1" as="geometry" />
