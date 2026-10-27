@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="2020" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2828" dy="2817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
           <mxGeometry relative="1" x="-0.1639" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="사회자본 해석?" vertex="1">
-          <mxGeometry height="60" width="170" x="1144" y="200" as="geometry" />
+          <mxGeometry height="60" width="170" x="1139" y="200" as="geometry" />
         </mxCell>
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-4" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;From where" vertex="1">
           <mxGeometry height="40" width="810" x="1365" y="271" as="geometry" />
@@ -370,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인&amp;nbsp;환경의&amp;nbsp; 사회자본?" vertex="1">
-          <mxGeometry height="60" width="170" x="1144" y="-377" as="geometry" />
+          <mxGeometry height="60" width="170" x="1139" y="-377" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-8" edge="1" parent="1" source="g0Nhq63hVkF9bFyseFyn-14" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="AWHQmhJ_QrZdobIPUFMp-3" value="">
           <mxGeometry height="50" relative="1" width="50" x="-0.7866" as="geometry">
@@ -439,7 +439,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="간접효과" vertex="1">
-          <mxGeometry height="40" width="135" x="1370" y="-570" as="geometry" />
+          <mxGeometry height="40" width="135" x="1369" y="-570" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;유대 강도&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;→&amp;nbsp; &amp;nbsp;매체 사용&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;↑&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;네트워크 재편 ←&amp;nbsp;매체 변화&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="1545" y="-580" as="geometry" />
@@ -448,7 +448,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="직접효과" vertex="1">
-          <mxGeometry height="40" width="135" x="1370" y="-367" as="geometry" />
+          <mxGeometry height="40" width="135" x="1369" y="-367" as="geometry" />
         </mxCell>
         <mxCell id="dEabfLOt5LhArdaNkaoR-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;CMC view&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1580" y="-610" as="geometry" />
@@ -456,8 +456,19 @@
         <mxCell id="dEabfLOt5LhArdaNkaoR-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;sociology&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="1618" y="93" as="geometry" />
         </mxCell>
-        <mxCell id="dEabfLOt5LhArdaNkaoR-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;br&gt;&lt;div&gt;온라인&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="1145" y="-810" as="geometry" />
+        <mxCell id="dEabfLOt5LhArdaNkaoR-16" edge="1" parent="1" source="dEabfLOt5LhArdaNkaoR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="dEabfLOt5LhArdaNkaoR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="-780" />
+              <mxPoint x="1320" y="-980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-18" edge="1" parent="1" source="dEabfLOt5LhArdaNkaoR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="dEabfLOt5LhArdaNkaoR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="1139" y="-810" as="geometry" />
         </mxCell>
         <mxCell id="dEabfLOt5LhArdaNkaoR-8" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-12">
           <mxGeometry relative="1" x="0.5" as="geometry">
@@ -465,6 +476,17 @@
               <mxPoint x="1868" y="-550" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-12" edge="1" parent="1" source="dEabfLOt5LhArdaNkaoR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1544" y="-980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="온라인 커뮤니티" vertex="1">
+          <mxGeometry height="40" width="135" x="1369" y="-1000" as="geometry" />
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="인터넷 등장 이후&amp;nbsp;&lt;div&gt;오프라인 커뮤니티&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="135" x="1369" y="-800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
