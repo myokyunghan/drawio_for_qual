@@ -133,6 +133,9 @@
             <mxPoint x="1000" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-6" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="dEabfLOt5LhArdaNkaoR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ucDS1HnYb55yJlDoRsUz-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="사회 자본" vertex="1">
           <mxGeometry height="40" width="120" x="935" y="210" as="geometry" />
         </mxCell>
@@ -412,16 +415,16 @@
           <mxGeometry height="40" width="120" x="1869" y="-361" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="159" x="1730" y="-700" as="geometry" />
+          <mxGeometry height="255" width="127" x="1868" y="-695" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Haythornthwaite&lt;br&gt;&lt;div&gt;(2002)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1769" y="-690" as="geometry" />
+          <mxGeometry height="30" width="90" x="1888" y="-685" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;For weakly tied pairs, passively adopt the use of new media&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="159" x="1730" y="-620" as="geometry" />
+          <mxGeometry height="40" width="127" x="1868" y="-615" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;For strongly tied pairs,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;activley adopt the use of new media&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="159" x="1730" y="-554" as="geometry" />
+          <mxGeometry height="40" width="127" x="1868" y="-549" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-23" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-5">
           <mxGeometry relative="1" as="geometry" />
@@ -452,6 +455,16 @@
         </mxCell>
         <mxCell id="dEabfLOt5LhArdaNkaoR-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;sociology&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="1618" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;br&gt;&lt;div&gt;온라인&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="1145" y="-810" as="geometry" />
+        </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-8" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-12">
+          <mxGeometry relative="1" x="0.5" as="geometry">
+            <Array as="points">
+              <mxPoint x="1868" y="-550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
