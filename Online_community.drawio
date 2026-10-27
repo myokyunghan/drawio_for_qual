@@ -447,6 +447,9 @@
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="직접효과" vertex="1">
           <mxGeometry height="40" width="135" x="1370" y="-367" as="geometry" />
         </mxCell>
+        <mxCell id="dEabfLOt5LhArdaNkaoR-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;CMC view&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1580" y="-610" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
