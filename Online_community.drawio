@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1935" dy="2138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,13 +386,13 @@
           <mxGeometry height="30" width="90" x="1145" y="600" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;increase&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="445" x="1654" y="-258.25" as="geometry" />
+          <mxGeometry height="40" width="636" x="1654" y="-258.25" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-6" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;supplement&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="445" x="1654" y="-197.25" as="geometry" />
+          <mxGeometry height="40" width="636" x="1654" y="-197.25" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-7" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;decrease&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="445" x="1654" y="-123.25" as="geometry" />
+          <mxGeometry height="40" width="636" x="1654" y="-123.25" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="248" width="120" x="1941" y="-310" as="geometry" />
@@ -496,6 +496,12 @@
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="910" y="-634" as="geometry" />
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="248" width="120" x="2100" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Lin&lt;br&gt;&lt;div&gt;(2001)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="2115" y="-300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
