@@ -457,7 +457,7 @@
         <mxCell id="dEabfLOt5LhArdaNkaoR-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;sociology&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="1618" y="93" as="geometry" />
         </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;사자본을 네트워크로 측정한 논문이 없습니다...?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;웰먼 말고는 없는걸까요?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;근데 왜 사회자본에 대한 관심이 식었나?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;개인이 아닌 집단을 향하는 사회 자본을 정말로 측정할 수 있나?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="OumlLCBTHmVW-nY39qLK-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;사자본을 네트워크로 측정한 논문이 없습니다...?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;웰먼 말고는 없는걸까요?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;그 당시 사회자본이 증가, 보조, 감소하는 이유들에 대해 서술하고, 현재의 인터넷 환경에서는 어떻게 바뀌었는지?&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="90" width="356.5" x="1238.5" y="-263" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -509,10 +509,10 @@
           <mxGeometry height="40" width="120" x="1911" y="-262" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;시민 참여 지표&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="127" x="1770" y="-352.5" as="geometry" />
+          <mxGeometry height="30" width="127" x="1770" y="-347.5" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;network, participatory, community&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="127" x="1906.5" y="-360" as="geometry" />
+          <mxGeometry height="40" width="127" x="1906.5" y="-355" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="248" width="120" x="2200" y="-315" as="geometry" />
