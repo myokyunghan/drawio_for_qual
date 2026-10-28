@@ -505,7 +505,7 @@
         <mxCell id="OumlLCBTHmVW-nY39qLK-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1910" y="-201" as="geometry" />
         </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="OumlLCBTHmVW-nY39qLK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal; color: rgb(255, 0, 0);&quot;&gt;community commitment&lt;/span&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1911" y="-262" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;시민 참여 지표&lt;/div&gt;" vertex="1">
