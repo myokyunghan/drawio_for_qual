@@ -413,16 +413,16 @@
           <mxGeometry height="30" width="90" x="1785" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165" width="127" x="1769" y="-521.5" as="geometry" />
+          <mxGeometry height="165" width="127" x="1625" y="-521.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Haythornthwaite&lt;br&gt;&lt;div&gt;(2002)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1789" y="-511.5" as="geometry" />
+          <mxGeometry height="30" width="90" x="1645" y="-511.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;For weakly tied pairs, passively adopt the use of new media&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="127" x="1769" y="-474.5" as="geometry" />
+          <mxGeometry height="40" width="127" x="1625" y="-474.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;For strongly tied pairs,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;activley adopt the use of new media&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="127" x="1769" y="-408.5" as="geometry" />
+          <mxGeometry height="40" width="127" x="1625" y="-408.5" as="geometry" />
         </mxCell>
         <mxCell id="dEabfLOt5LhArdaNkaoR-2" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-6">
           <mxGeometry relative="1" as="geometry" />
@@ -519,9 +519,6 @@
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Hampton and&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Wellman(2003)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="2215" y="-305" as="geometry" />
-        </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;이메일과 같은 수단의 등장이 사회자본을 확장&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="2200" y="-263.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
