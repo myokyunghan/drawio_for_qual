@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="3357" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2886" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,19 +398,19 @@
           <mxGeometry height="40" width="746" x="1654" y="-123.25" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="248" width="120" x="1912" y="-315" as="geometry" />
+          <mxGeometry height="248" width="120" x="1773.5" y="-312.5" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Putnam&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1924" y="-305" as="geometry" />
+          <mxGeometry height="30" width="90" x="1785.5" y="-302.5" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;인터넷 공동체는&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;대면 공동체를 보완할 뿐 대체하지 않을 것&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1912" y="-202.25" as="geometry" />
+          <mxGeometry height="40" width="120" x="1773.5" y="-199.75" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="243" width="120" x="1775" y="-310" as="geometry" />
+          <mxGeometry height="243" width="120" x="1910" y="-313.75" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Wellman&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1785" y="-300" as="geometry" />
+          <mxGeometry height="30" width="90" x="1920" y="-303.75" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="165" width="127" x="1625" y="-521.5" as="geometry" />
@@ -503,16 +503,16 @@
           <mxGeometry height="40" width="120" x="2050" y="-263.25" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1775" y="-197.25" as="geometry" />
+          <mxGeometry height="40" width="120" x="1910" y="-201" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1776" y="-258.25" as="geometry" />
+          <mxGeometry height="40" width="120" x="1911" y="-262" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;시민 참여 지표&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="127" x="1908.5" y="-350" as="geometry" />
+          <mxGeometry height="30" width="127" x="1770" y="-352.5" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;network, participatory, community&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="127" x="1772.5" y="-353" as="geometry" />
+          <mxGeometry height="40" width="127" x="1906.5" y="-360" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="248" width="120" x="2200" y="-315" as="geometry" />
@@ -521,13 +521,16 @@
           <mxGeometry height="30" width="90" x="2215" y="-305" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="설문" vertex="1">
-          <mxGeometry height="30" width="60" x="1810" y="-67" as="geometry" />
+          <mxGeometry height="30" width="60" x="1945" y="-70.75" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="시민참여지표" vertex="1">
-          <mxGeometry height="30" width="74" x="1935" y="-67" as="geometry" />
+          <mxGeometry height="30" width="74" x="1796.5" y="-64.5" as="geometry" />
         </mxCell>
         <mxCell id="uO7yn2k8CPT9hz8IJk-u-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2;fontColor=light-dark(#666666,var(--ge-light-color, #ffffff));" value="&lt;div&gt;&lt;span style=&quot;font-style: normal; background-color: transparent;&quot;&gt;community commitment&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1775" y="-123.25" as="geometry" />
+          <mxGeometry height="40" width="120" x="1910" y="-127" as="geometry" />
+        </mxCell>
+        <mxCell id="uO7yn2k8CPT9hz8IJk-u-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="다음 혹은 다다음 주에 읽을 내용" vertex="1">
+          <mxGeometry height="30" width="215" x="1105" y="-619" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
