@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="2350" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1645" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,11 +502,8 @@
         <mxCell id="OumlLCBTHmVW-nY39qLK-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1775" y="-197.25" as="geometry" />
         </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="OumlLCBTHmVW-nY39qLK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1776" y="-258.25" as="geometry" />
-        </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1776" y="-123.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
