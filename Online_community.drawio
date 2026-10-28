@@ -401,7 +401,7 @@
           <mxGeometry height="30" width="90" x="1953" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;인터넷 공동체는&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;대면 공동체를 보완할 뿐 대체하지 않을 것&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1940" y="-253" as="geometry" />
+          <mxGeometry height="40" width="120" x="1941" y="-197.25" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="248" width="120" x="1775" y="-310" as="geometry" />
@@ -409,20 +409,17 @@
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Wellman&lt;br&gt;&lt;div&gt;(2000)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1785" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="AWHQmhJ_QrZdobIPUFMp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Group based society&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Network based society&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1776" y="-191" as="geometry" />
-        </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="255" width="127" x="1769" y="-584" as="geometry" />
+          <mxGeometry height="165" width="127" x="1769" y="-521.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Haythornthwaite&lt;br&gt;&lt;div&gt;(2002)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1789" y="-574" as="geometry" />
+          <mxGeometry height="30" width="90" x="1789" y="-511.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;For weakly tied pairs, passively adopt the use of new media&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="127" x="1769" y="-504" as="geometry" />
+          <mxGeometry height="40" width="127" x="1769" y="-474.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;For strongly tied pairs,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;activley adopt the use of new media&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="127" x="1769" y="-438" as="geometry" />
+          <mxGeometry height="40" width="127" x="1769" y="-408.5" as="geometry" />
         </mxCell>
         <mxCell id="dEabfLOt5LhArdaNkaoR-2" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-6">
           <mxGeometry relative="1" as="geometry" />
@@ -439,6 +436,9 @@
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="간접효과" vertex="1">
           <mxGeometry height="40" width="135" x="1270" y="-459" as="geometry" />
         </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-20" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-1">
+          <mxGeometry relative="1" x="-0.002" as="geometry" />
+        </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;유대 강도&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;→&amp;nbsp; &amp;nbsp;매체 사용&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;↑&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;네트워크 재편 ←&amp;nbsp;매체 변화&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="135" x="1446" y="-469" as="geometry" />
         </mxCell>
@@ -453,13 +453,6 @@
         </mxCell>
         <mxCell id="dEabfLOt5LhArdaNkaoR-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;economics&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;sociology&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="1618" y="93" as="geometry" />
-        </mxCell>
-        <mxCell id="dEabfLOt5LhArdaNkaoR-8" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-12">
-          <mxGeometry relative="1" x="0.5" as="geometry">
-            <Array as="points">
-              <mxPoint x="1769" y="-439" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;학력은 사회자본인가? collective knowledge는 사회자본인가?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#39;디인사 학생들끼리 친해지기&#39;, 과연 어떤 사회자본을 쌓기 위한 노력인가&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;근데 왜 사회자본에 대한 관심이 식었나?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;개인이 아닌 집단을 향하는 사회 자본을 정말로 측정할 수 있나?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="90" width="534" x="430" y="-241" as="geometry" />
@@ -502,6 +495,18 @@
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Lin&lt;br&gt;&lt;div&gt;(2001)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="2115" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;이메일과 같은 수단의 등장이 사회자본을 확장&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="2100" y="-258.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;network capital&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1775" y="-197.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;participatory capital&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1776" y="-258.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;community commitment&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1776" y="-123.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
