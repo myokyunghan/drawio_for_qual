@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1414" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3357" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,13 +388,13 @@
         <mxCell id="dJORfCXNRMwTQDduBPWn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Uzzi&lt;div&gt;(1996)&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1145" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;increase&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-5" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;increase&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="746" x="1654" y="-258.25" as="geometry" />
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-6" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;supplement&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-6" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;supplement&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="746" x="1654" y="-197.25" as="geometry" />
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-7" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&amp;nbsp; &amp;nbsp;decrease&lt;div&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/div&gt;" vertex="1">
+        <mxCell id="SkhLLc9zeO8zVeCm2dUm-7" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;decrease&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="746" x="1654" y="-123.25" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
@@ -525,6 +525,9 @@
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="시민참여지표" vertex="1">
           <mxGeometry height="30" width="74" x="1935" y="-67" as="geometry" />
+        </mxCell>
+        <mxCell id="uO7yn2k8CPT9hz8IJk-u-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2;fontColor=light-dark(#666666,var(--ge-light-color, #ffffff));" value="&lt;div&gt;&lt;span style=&quot;font-style: normal; background-color: transparent;&quot;&gt;community commitment&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1775" y="-123.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
