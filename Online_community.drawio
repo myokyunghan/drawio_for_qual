@@ -542,6 +542,12 @@
             <mxPoint x="1500" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="He146R8fVk34XxUWBM5R-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;퍼트넘이 말한 외부집단의 경계가 오히려 낮아짐&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="2200" y="-256" as="geometry" />
+        </mxCell>
+        <mxCell id="He146R8fVk34XxUWBM5R-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="설문조사를 활용한 척도개발" vertex="1">
+          <mxGeometry height="30" width="90" x="2215" y="-67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
