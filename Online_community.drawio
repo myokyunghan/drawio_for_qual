@@ -567,6 +567,9 @@
         <mxCell id="He146R8fVk34XxUWBM5R-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; based on Putnam&#39;s theory" vertex="1">
           <mxGeometry height="30" width="127" x="2196.5" y="-347.5" as="geometry" />
         </mxCell>
+        <mxCell id="He146R8fVk34XxUWBM5R-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="DiMaggio et al.&lt;br&gt;&lt;div&gt;(2001)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="1667" y="-292" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
