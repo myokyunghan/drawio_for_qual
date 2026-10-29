@@ -548,6 +548,9 @@
         <mxCell id="He146R8fVk34XxUWBM5R-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="설문조사를 활용한 척도개발" vertex="1">
           <mxGeometry height="30" width="90" x="2215" y="-67" as="geometry" />
         </mxCell>
+        <mxCell id="He146R8fVk34XxUWBM5R-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; based on Putnam&#39;s theory" vertex="1">
+          <mxGeometry height="30" width="127" x="2196.5" y="-347.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
