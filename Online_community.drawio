@@ -511,7 +511,15 @@
         <mxCell id="OumlLCBTHmVW-nY39qLK-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;시민 참여 지표&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="127" x="1770" y="-347.5" as="geometry" />
         </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;network, participatory, community(whp)&lt;/div&gt;" vertex="1">
+        <mxCell id="He146R8fVk34XxUWBM5R-5" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;" target="OumlLCBTHmVW-nY39qLK-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1970" y="-380" />
+              <mxPoint x="1833.5" y="-380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OumlLCBTHmVW-nY39qLK-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; as&lt;div&gt;network, participatory, community(why)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="127" x="1906.5" y="-355" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
@@ -547,6 +555,14 @@
         </mxCell>
         <mxCell id="He146R8fVk34XxUWBM5R-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="설문조사를 활용한 척도개발" vertex="1">
           <mxGeometry height="30" width="90" x="2215" y="-67" as="geometry" />
+        </mxCell>
+        <mxCell id="He146R8fVk34XxUWBM5R-6" edge="1" parent="1" source="He146R8fVk34XxUWBM5R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;" target="OumlLCBTHmVW-nY39qLK-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2260" y="-380" />
+              <mxPoint x="1833.5" y="-380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="He146R8fVk34XxUWBM5R-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&quot;social capital&quot; based on Putnam&#39;s theory" vertex="1">
           <mxGeometry height="30" width="127" x="2196.5" y="-347.5" as="geometry" />
