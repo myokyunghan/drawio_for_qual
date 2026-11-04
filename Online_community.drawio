@@ -659,7 +659,22 @@
           <mxGeometry height="30" width="90" x="-341.5" y="-420" as="geometry" />
         </mxCell>
         <mxCell id="azakgoC4cyAIfWqsurGK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="비즈니스&amp;nbsp;&lt;div&gt;프로젝트 단위&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="81.41" x="-377" y="-250" as="geometry" />
+          <mxGeometry height="50" width="81.41" x="-380" y="-315" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="수직적&amp;nbsp;&lt;div&gt;대기업의&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;위기&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-380" y="-377" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="문화와 제도" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-380" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="하청&lt;div&gt;제휴&lt;/div&gt;&lt;div&gt;수평적 기업&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-286" y="-377" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="연결성과&lt;div&gt;일관성&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-286" y="-315" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="계열&amp;nbsp;&lt;div&gt;재벌&lt;/div&gt;&lt;div&gt;화교&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-286" y="-250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
