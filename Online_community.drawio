@@ -463,10 +463,10 @@
         <mxCell id="OumlLCBTHmVW-nY39qLK-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="910" y="-279" as="geometry" />
         </mxCell>
-        <mxCell id="-vu22tzox1H0tlKe2RB6-4" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="-vu22tzox1H0tlKe2RB6-3">
+        <mxCell id="-vu22tzox1H0tlKe2RB6-8" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-vu22tzox1H0tlKe2RB6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-vu22tzox1H0tlKe2RB6-8" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-vu22tzox1H0tlKe2RB6-7">
+        <mxCell id="-vu22tzox1H0tlKe2RB6-13" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="-vu22tzox1H0tlKe2RB6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="인터넷의&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;등장?&lt;/span&gt;" vertex="1">
@@ -539,8 +539,8 @@
         <mxCell id="uO7yn2k8CPT9hz8IJk-u-4" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-37" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="SkhLLc9zeO8zVeCm2dUm-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="-310" />
-              <mxPoint x="1688.5" y="-310" />
+              <mxPoint x="800" y="-460" />
+              <mxPoint x="1688.5" y="-460" />
             </Array>
             <mxPoint x="1450" y="220" as="sourcePoint" />
             <mxPoint x="1500" y="170" as="targetPoint" />
