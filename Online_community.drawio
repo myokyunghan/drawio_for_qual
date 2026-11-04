@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="3456" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2556" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
         <mxCell id="-vu22tzox1H0tlKe2RB6-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="현실적 가상성의 문화" vertex="1">
           <mxGeometry height="30" width="110" x="-250" y="-415" as="geometry" />
         </mxCell>
-        <mxCell id="-vu22tzox1H0tlKe2RB6-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="&quot;여러가지 역사적 사건의 귀결로 발생한 정보기술의 혁명은 사회적 맥락(문화, 경제, 기업 경영)과 상호작용하며&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;그 형태가 만들어졌다.&lt;/span&gt;&lt;div&gt;&lt;div&gt;&quot;왜?&quot;&lt;/div&gt;&lt;div&gt;각 부분에서의 네트워크 연결을 확장했으니까&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="-vu22tzox1H0tlKe2RB6-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;verticalAlign=top;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&quot;여러가지 역사적 사건의 귀결로 발생한 정보기술의 혁명은 사회적 맥락(문화, 경제, 기업 경영)과 상호작용하며&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;그 형태가 만들어졌다.&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="193.75" width="960" x="-1000" y="-153.75" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="신경제" vertex="1">
