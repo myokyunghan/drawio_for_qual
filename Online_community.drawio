@@ -533,7 +533,7 @@
         <mxCell id="uO7yn2k8CPT9hz8IJk-u-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2;fontColor=light-dark(#666666,var(--ge-light-color, #ffffff));" value="&lt;div&gt;&lt;span style=&quot;font-style: normal; background-color: transparent;&quot;&gt;community commitment&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1910" y="-272" as="geometry" />
         </mxCell>
-        <mxCell id="uO7yn2k8CPT9hz8IJk-u-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="다음 혹은 다다음 주에 읽을 내용" vertex="1">
+        <mxCell id="uO7yn2k8CPT9hz8IJk-u-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;다음 혹은 다다음 주에 읽을 내용&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="215" x="1105" y="-764" as="geometry" />
         </mxCell>
         <mxCell id="uO7yn2k8CPT9hz8IJk-u-4" edge="1" parent="1" source="ucDS1HnYb55yJlDoRsUz-37" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="SkhLLc9zeO8zVeCm2dUm-1" value="">
@@ -572,8 +572,8 @@
         <mxCell id="-vu22tzox1H0tlKe2RB6-5" edge="1" parent="1" source="-vu22tzox1H0tlKe2RB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OumlLCBTHmVW-nY39qLK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-vu22tzox1H0tlKe2RB6-11" edge="1" parent="1" source="-vu22tzox1H0tlKe2RB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-vu22tzox1H0tlKe2RB6-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-vu22tzox1H0tlKe2RB6-11" edge="1" parent="1" source="-vu22tzox1H0tlKe2RB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-vu22tzox1H0tlKe2RB6-9">
+          <mxGeometry relative="1" x="0.0615" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-12" edge="1" parent="1" source="-vu22tzox1H0tlKe2RB6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OumlLCBTHmVW-nY39qLK-8">
           <mxGeometry relative="1" as="geometry" />
@@ -585,10 +585,10 @@
           <mxGeometry height="40" width="135" x="55" y="-49.75" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="네트워크 사회" vertex="1">
-          <mxGeometry height="40" width="135" x="44" y="-279" as="geometry" />
+          <mxGeometry height="40" width="135" x="44" y="-269" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-10" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;그래서 지금은... 네트워크가 중요합니까? 이것 마저 양극화일까&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;모든걸네트워크로 보는데... 네트워크로 설명할 수 없는건 무엇일까&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="98.25" width="618.25" x="-160" y="-401" as="geometry" />
+          <mxGeometry height="98.25" width="618.25" x="-330" y="-215.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
