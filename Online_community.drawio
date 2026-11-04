@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="3572" dy="2723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3882" dy="2430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,13 +582,43 @@
           <mxGeometry height="40" width="135" x="348" y="-269" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="정보 기술의 혁명" vertex="1">
-          <mxGeometry height="40" width="135" x="55" y="-49.75" as="geometry" />
+          <mxGeometry height="40" width="135" x="44" y="-49.75" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="네트워크 사회" vertex="1">
           <mxGeometry height="40" width="135" x="44" y="-269" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-10" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;그래서 지금은... 네트워크가 중요합니까? 이것 마저 양극화일까&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;모든걸네트워크로 보는데... 네트워크로 설명할 수 없는건 무엇일까&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="98.25" width="618.25" x="-330" y="-215.75" as="geometry" />
+          <mxGeometry height="98.25" width="618.25" x="-143.25" y="-817.25" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
+          <mxGeometry height="248" width="230" x="-970" y="-467" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="66.5" y="-302" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="신경제" vertex="1">
+          <mxGeometry height="30" width="90" x="-900" y="-457.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
+          <mxGeometry height="248" width="230" x="-730" y="-467" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="네트워크 기업" vertex="1">
+          <mxGeometry height="30" width="90" x="-660" y="-457.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
+          <mxGeometry height="248" width="230" x="-490" y="-463.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="현실적 가상성의 문화" vertex="1">
+          <mxGeometry height="30" width="110" x="-430" y="-454.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="66.5" y="-79.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
+          <mxGeometry height="248" width="230" x="-250" y="-463.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-vu22tzox1H0tlKe2RB6-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="네트워크 사회" vertex="1">
+          <mxGeometry height="30" width="110" x="-190" y="-454.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
