@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="1763" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,7 +652,7 @@
         <mxCell id="LOXeVwtHehLgZ0zo9xfO-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="시장확대" vertex="1">
           <mxGeometry height="50" width="81.41" x="-490" y="-315" as="geometry" />
         </mxCell>
-        <mxCell id="LOXeVwtHehLgZ0zo9xfO-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="불평등?" vertex="1">
+        <mxCell id="LOXeVwtHehLgZ0zo9xfO-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="유연한 조직" vertex="1">
           <mxGeometry height="50" width="81.41" x="-490" y="-250" as="geometry" />
         </mxCell>
       </root>
