@@ -625,7 +625,7 @@
         <mxCell id="-vu22tzox1H0tlKe2RB6-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="신경제" vertex="1">
           <mxGeometry height="30" width="90" x="-538.91" y="-386" as="geometry" />
         </mxCell>
-        <mxCell id="LOXeVwtHehLgZ0zo9xfO-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="정보화주의" vertex="1">
+        <mxCell id="LOXeVwtHehLgZ0zo9xfO-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="정보화" vertex="1">
           <mxGeometry height="50" width="81.41" x="-580" y="-346" as="geometry" />
         </mxCell>
         <mxCell id="LOXeVwtHehLgZ0zo9xfO-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="지구화" vertex="1">
@@ -634,11 +634,19 @@
         <mxCell id="LOXeVwtHehLgZ0zo9xfO-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="네트워킹" vertex="1">
           <mxGeometry height="50" width="81.41" x="-580" y="-216" as="geometry" />
         </mxCell>
-        <mxCell id="LOXeVwtHehLgZ0zo9xfO-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="생산성성장" vertex="1">
+        <mxCell id="LOXeVwtHehLgZ0zo9xfO-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="생산성향상" vertex="1">
           <mxGeometry height="50" width="81.41" x="-490" y="-346" as="geometry" />
         </mxCell>
         <mxCell id="LOXeVwtHehLgZ0zo9xfO-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="시장의&lt;div&gt;지구적 통합&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-490" y="-281" as="geometry" />
+        </mxCell>
+        <mxCell id="B4UzSWha6bc66kL8rseU-2" edge="1" parent="1" source="LOXeVwtHehLgZ0zo9xfO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;dashed=1;endArrow=none;endFill=0;" target="LOXeVwtHehLgZ0zo9xfO-30">
+          <mxGeometry relative="1" x="0.0037" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="-191" />
+              <mxPoint x="-400" y="-371" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LOXeVwtHehLgZ0zo9xfO-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="유연한 조직" vertex="1">
           <mxGeometry height="50" width="81.41" x="-490" y="-216" as="geometry" />
