@@ -676,6 +676,24 @@
         <mxCell id="azakgoC4cyAIfWqsurGK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="계열&amp;nbsp;&lt;div&gt;재벌&lt;/div&gt;&lt;div&gt;화교&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-286" y="-250" as="geometry" />
         </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="전자 comm&lt;div&gt;통합&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-180" y="-377" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="대중 수용자의 종말" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-180" y="-315" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="상호작용&lt;div&gt;네트워크의&lt;/div&gt;&lt;div&gt;부상&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-180" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="문자&lt;div&gt;시청각의&lt;/div&gt;&lt;div&gt;결합(HT)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-90" y="-377" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="수용자는 세분화&lt;div&gt;생산은 집중&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-90" y="-315" as="geometry" />
+        </mxCell>
+        <mxCell id="azakgoC4cyAIfWqsurGK-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="약한유대&lt;div&gt;상호작용 하는&lt;/div&gt;&lt;div&gt;당하는 사람&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="-90" y="-250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
