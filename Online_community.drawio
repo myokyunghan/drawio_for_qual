@@ -682,7 +682,7 @@
         <mxCell id="azakgoC4cyAIfWqsurGK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="상호작용&lt;div&gt;네트워크의&lt;/div&gt;&lt;div&gt;부상&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-180" y="-216" as="geometry" />
         </mxCell>
-        <mxCell id="azakgoC4cyAIfWqsurGK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="문자&lt;div&gt;시청각의&lt;/div&gt;&lt;div&gt;결합(HT)&lt;/div&gt;" vertex="1">
+        <mxCell id="azakgoC4cyAIfWqsurGK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="문자&lt;div&gt;시청각의&lt;/div&gt;&lt;div&gt;재결합(HT)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-90" y="-343" as="geometry" />
         </mxCell>
         <mxCell id="azakgoC4cyAIfWqsurGK-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="수용자는 세분화&lt;div&gt;생산은 집중&lt;/div&gt;" vertex="1">
@@ -711,6 +711,9 @@
             <mxPoint x="-379.59000000000003" y="-224" as="sourcePoint" />
             <mxPoint x="-199.59000000000003" y="-224" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B4UzSWha6bc66kL8rseU-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The culture of Real Virtuality" vertex="1">
+          <mxGeometry height="30" width="192.18" x="-187" y="-420.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
