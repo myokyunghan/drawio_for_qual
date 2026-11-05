@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="3655" dy="2921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2472" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -670,7 +670,7 @@
         <mxCell id="azakgoC4cyAIfWqsurGK-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="연결성과&lt;div&gt;일관성&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-286" y="-281" as="geometry" />
         </mxCell>
-        <mxCell id="azakgoC4cyAIfWqsurGK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="계열&lt;div&gt;재벌&lt;/div&gt;&lt;div&gt;화교&lt;/div&gt;" vertex="1">
+        <mxCell id="azakgoC4cyAIfWqsurGK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCFFCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="집단과 계열&lt;div&gt;재벌&lt;/div&gt;&lt;div&gt;화교&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-286" y="-216" as="geometry" />
         </mxCell>
         <mxCell id="azakgoC4cyAIfWqsurGK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="전자 comm&lt;div&gt;통합&lt;/div&gt;" vertex="1">
