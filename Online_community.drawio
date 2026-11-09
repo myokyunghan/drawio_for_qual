@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="6068" dy="3744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4422" dy="3229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -481,7 +481,7 @@
           <mxGeometry relative="1" x="0.0227" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="인터넷의&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;등장?&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="330" y="-59.75" as="geometry" />
+          <mxGeometry height="60" width="170" x="330.5" y="-49.75" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-7" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="OumlLCBTHmVW-nY39qLK-13">
           <mxGeometry relative="1" x="-0.7122" as="geometry">
