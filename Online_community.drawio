@@ -474,11 +474,11 @@
             <mxPoint x="179" y="-29.699999999999818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-vu22tzox1H0tlKe2RB6-13" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="-vu22tzox1H0tlKe2RB6-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Oj9_CVD_wxPswd6i6Qbj-3" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="-vu22tzox1H0tlKe2RB6-35">
           <mxGeometry relative="1" x="0.0227" as="geometry" />
+        </mxCell>
+        <mxCell id="6dlF2qG1c9EiQGi9PEyP-1" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="-vu22tzox1H0tlKe2RB6-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="인터넷의&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;등장?&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="330.5" y="-49.75" as="geometry" />
@@ -489,13 +489,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="가상(온라인) 커뮤니티" vertex="1">
-          <mxGeometry height="40" width="135" x="652" y="-769" as="geometry" />
+          <mxGeometry height="40" width="135" x="731" y="-769" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-11" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="OumlLCBTHmVW-nY39qLK-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;오프라인 커뮤니티&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="135" x="652" y="-269" as="geometry" />
+          <mxGeometry height="40" width="135" x="731" y="-269" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="910" y="-779" as="geometry" />
@@ -587,7 +587,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="인터넷 등장 이후의 사회" vertex="1">
-          <mxGeometry height="40" width="135" x="348" y="-269" as="geometry" />
+          <mxGeometry height="40" width="135" x="437" y="-268.75" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-10" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;그래서 지금은... 네트워크가 중요합니까? 이것 마저 양극화일까&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;모든 걸 네트워크로 보는데... 네트워크로 설명할 수 없는건 무엇일까?&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;네트워크에는 컨텍스트가 없다... 컨텍스트를 어떻게 넣느냐... 역사 문화 정치 경제 사회의 모든 면을 고려해야 사실 네트워크가 네트워크로서의 가치를 발휘할 수 있는건 아닐까?&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="98.25" width="570" x="-563.91" y="179.75" as="geometry" />
