@@ -97,6 +97,9 @@
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Attention to measurement is all you need" vertex="1">
           <mxGeometry height="50" width="110" x="429" y="645" as="geometry" />
         </mxCell>
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-20" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" value="중요한 개념은 하나도 바뀌지 않았다....!" vertex="1">
+          <mxGeometry height="30" width="370" x="-280" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
