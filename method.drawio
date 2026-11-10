@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="670" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2472" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-1" edge="1" parent="1" source="orQvqUmR7YReKSig8rPN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="orQvqUmR7YReKSig8rPN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="orQvqUmR7YReKSig8rPN-1" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="method" vertex="1">
           <mxGeometry height="60" width="100" x="340" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="orQvqUmR7YReKSig8rPN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Research Design &amp;amp;&amp;nbsp;&lt;div&gt;Measurement&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="510" y="310" as="geometry" />
+        <mxCell id="orQvqUmR7YReKSig8rPN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. Research Design &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Measurement&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="370" x="-280" y="480" as="geometry" />
         </mxCell>
         <mxCell id="8I9P7HO-_gHnL4_YbH4s-3" edge="1" parent="1" source="8I9P7HO-_gHnL4_YbH4s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="8I9P7HO-_gHnL4_YbH4s-2">
           <mxGeometry relative="1" as="geometry" />
@@ -17,31 +20,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8I9P7HO-_gHnL4_YbH4s-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. Quantitative observation : Survey &amp;amp; Experimental Research" vertex="1">
-          <mxGeometry height="60" width="270" x="260" y="470" as="geometry" />
+          <mxGeometry height="60" width="270" x="940" y="450" as="geometry" />
         </mxCell>
         <mxCell id="8I9P7HO-_gHnL4_YbH4s-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="실험" vertex="1">
-          <mxGeometry height="30" width="290" x="70" y="585" as="geometry" />
+          <mxGeometry height="30" width="290" x="750" y="565" as="geometry" />
         </mxCell>
         <mxCell id="8I9P7HO-_gHnL4_YbH4s-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="설문" vertex="1">
-          <mxGeometry height="30" width="110" x="420" y="585" as="geometry" />
+          <mxGeometry height="30" width="110" x="1100" y="565" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="실험의 정의" vertex="1">
-          <mxGeometry height="20" width="110" x="70" y="630" as="geometry" />
+          <mxGeometry height="20" width="110" x="750" y="610" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="고전적 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="70" y="663" as="geometry" />
+          <mxGeometry height="20" width="110" x="750" y="643" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="현장 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="70" y="695" as="geometry" />
+          <mxGeometry height="20" width="110" x="750" y="675" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="웹기반 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="70" y="728" as="geometry" />
+          <mxGeometry height="20" width="110" x="750" y="708" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="자연 상태의 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="70" y="760" as="geometry" />
+          <mxGeometry height="20" width="110" x="750" y="740" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="디지털 현장실험" vertex="1">
-          <mxGeometry height="20" width="110" x="190" y="710" as="geometry" />
+          <mxGeometry height="20" width="110" x="870" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="연구의 정의" vertex="1">
+          <mxGeometry height="20" width="110" x="-280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="연구의 세가지 목적&lt;div&gt;탐색, 기술 설명&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="-280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="개념화와 조작화" vertex="1">
+          <mxGeometry height="20" width="110" x="-280" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="측정과 판단기준" vertex="1">
+          <mxGeometry height="20" width="110" x="-280" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
