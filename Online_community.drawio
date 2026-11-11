@@ -825,8 +825,8 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;programmer&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2329" y="-992" as="geometry" />
         </mxCell>
-        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;contribute or not&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2328.5" y="-1054.75" as="geometry" />
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;&quot;&gt;contribute&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;or not&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2329" y="-1055.75" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;project participation&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Software use&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2554.5" y="-983" as="geometry" />
