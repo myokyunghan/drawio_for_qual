@@ -831,8 +831,8 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;project participation&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Software use&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2554.5" y="-983" as="geometry" />
         </mxCell>
-        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;high growth&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;stabilization&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2456" y="-890" as="geometry" />
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;high growth or project death&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;stabilization or stagnation&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="164" x="2440.75" y="-890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
