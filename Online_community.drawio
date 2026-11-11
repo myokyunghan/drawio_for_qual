@@ -847,16 +847,13 @@
           <mxGeometry height="30" width="120" x="2054.34" y="-1110" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Invisible audiance" vertex="1">
-          <mxGeometry height="33" width="81.41" x="1930.67" y="-451" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="1930.67" y="-451" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Collapse context" vertex="1">
-          <mxGeometry height="33" width="81.41" x="2020.67" y="-451" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="2020.67" y="-451" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Blurring of public/private" vertex="1">
-          <mxGeometry height="33" width="81.41" x="1930.67" y="-411" as="geometry" />
-        </mxCell>
-        <mxCell id="ULf9gdxbPERpjQxXo9Pm-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="&amp;nbsp;Transformation of public" vertex="1">
-          <mxGeometry height="33" width="81.41" x="2020.67" y="-410" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="1975.68" y="-407" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
