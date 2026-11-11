@@ -789,6 +789,15 @@
         <mxCell id="LyFqXrXzL-jF17bUOt5x-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="공공재 관점?" vertex="1">
           <mxGeometry height="60" width="170" x="1589" y="-1000" as="geometry" />
         </mxCell>
+        <mxCell id="ULf9gdxbPERpjQxXo9Pm-5" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;endArrow=none;endFill=0;" target="544Uq_VntOdpiffqz_bp-20">
+          <mxGeometry relative="1" x="0.0018" as="geometry">
+            <Array as="points">
+              <mxPoint x="2015.1" y="-910" />
+              <mxPoint x="1880.1" y="-910" />
+              <mxPoint x="1880.1" y="-585.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
           <mxGeometry height="98.25" width="230" x="1900.13" y="-1019.25" as="geometry" />
         </mxCell>
@@ -820,7 +829,7 @@
           <mxGeometry height="30" width="120" x="2173.48" y="-907.5" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFE599;strokeWidth=8;" value="" vertex="1">
-          <mxGeometry height="49.25" width="73" x="2355" y="-1100" as="geometry" />
+          <mxGeometry height="49.25" width="73" x="2354" y="-1100" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;programmer&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2329" y="-992" as="geometry" />
@@ -840,11 +849,11 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;sw user &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 102, 51), rgb(105, 193, 149));&quot;&gt;programmer&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2197" y="-1050" as="geometry" />
         </mxCell>
-        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="self -interest" vertex="1">
-          <mxGeometry height="30" width="120" x="2680" y="-1070" as="geometry" />
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="self -interest...?" vertex="1">
+          <mxGeometry height="30" width="120" x="2630" y="-1022" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;utility, structure infrastructure&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2054.34" y="-1110" as="geometry" />
+          <mxGeometry height="30" width="192.18" x="2160" y="-1141" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Invisible audiance" vertex="1">
           <mxGeometry height="40" width="81.41" x="1930.67" y="-451" as="geometry" />
