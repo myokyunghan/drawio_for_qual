@@ -840,6 +840,12 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;sw user &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 102, 51), rgb(105, 193, 149));&quot;&gt;programmer&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2197" y="-1050" as="geometry" />
         </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="self -interest" vertex="1">
+          <mxGeometry height="30" width="120" x="2680" y="-1070" as="geometry" />
+        </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;utility, structure infrastructure&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2054.34" y="-1110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
