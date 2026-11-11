@@ -769,13 +769,13 @@
           <mxGeometry height="60" width="170" x="1587.63" y="-474" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
-          <mxGeometry height="147" width="230" x="1900.13" y="-517.5" as="geometry" />
+          <mxGeometry height="165.15" width="230" x="1900.13" y="-526.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Public &amp;amp; Networked Public&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Affordance&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Dynamics in Networked publics&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="220.5" x="1906.13" y="-464" as="geometry" />
+          <mxGeometry height="40" width="220.5" x="1906.13" y="-494" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Boyd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2010)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1970.13" y="-502.5" as="geometry" />
+          <mxGeometry height="30" width="90" x="1970.13" y="-524.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;sociometric perspectives&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal; font-style: normal;&quot;&gt;ways to understand human lives&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="205" x="1913.88" y="-687.5" as="geometry" />
@@ -845,6 +845,18 @@
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;utility, structure infrastructure&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2054.34" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf9gdxbPERpjQxXo9Pm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Invisible audiance" vertex="1">
+          <mxGeometry height="33" width="81.41" x="1930.67" y="-451" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf9gdxbPERpjQxXo9Pm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Collapse context" vertex="1">
+          <mxGeometry height="33" width="81.41" x="2020.67" y="-451" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf9gdxbPERpjQxXo9Pm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Blurring of public/private" vertex="1">
+          <mxGeometry height="33" width="81.41" x="1930.67" y="-411" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf9gdxbPERpjQxXo9Pm-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="&amp;nbsp;Transformation of public" vertex="1">
+          <mxGeometry height="33" width="81.41" x="2020.67" y="-410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
