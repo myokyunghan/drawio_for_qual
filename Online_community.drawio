@@ -834,6 +834,9 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;high growth or project death&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;stabilization or stagnation&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="164" x="2440.75" y="-890" as="geometry" />
         </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Copyleft&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Project governance&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2200" y="-951" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
