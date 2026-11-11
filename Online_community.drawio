@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="4773" dy="3402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3109" dy="2461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,7 +745,7 @@
           <mxGeometry height="60" width="170" x="1587.63" y="-670" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
-          <mxGeometry height="177" width="230" x="1901.38" y="-728.5" as="geometry" />
+          <mxGeometry height="177" width="230" x="1900.13" y="-728.5" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Facebook" vertex="1">
           <mxGeometry height="40" width="81.41" x="1930.67" y="-657.5" as="geometry" />
@@ -790,10 +790,16 @@
           <mxGeometry height="60" width="170" x="1589" y="-1000" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
-          <mxGeometry height="177" width="230" x="1845" y="-1058.5" as="geometry" />
+          <mxGeometry height="177" width="230" x="1900.13" y="-1058.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hess &amp;amp; Ostrom&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(2007)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="2190" y="-690" as="geometry" />
+          <mxGeometry height="30" width="180" x="1926.5" y="-1050" as="geometry" />
+        </mxCell>
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-24" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;언제쯤 등장할건데요...? 제발요....?예?&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="669.33" x="1779.67" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;traditional commons&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="220.5" x="1904.5" y="-1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
