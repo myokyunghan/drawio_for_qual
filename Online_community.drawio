@@ -810,6 +810,9 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;&quot;&gt;Institutional Analysis and Development Framework (IDA)&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="428.5" x="2148.48" y="-1199" as="geometry" />
         </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hess &amp;amp; Ostrom&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2137.48" y="-907.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
