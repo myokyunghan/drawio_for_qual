@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="3655" dy="4090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="3214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -820,13 +820,19 @@
           <mxGeometry height="30" width="120" x="2173.48" y="-907.5" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFE599;strokeWidth=8;" value="" vertex="1">
-          <mxGeometry height="49.25" width="60" x="2361" y="-1100" as="geometry" />
+          <mxGeometry height="49.25" width="73" x="2355" y="-1100" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;programmer&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2346" y="-992" as="geometry" />
+          <mxGeometry height="30" width="120" x="2329" y="-992" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;contribute or not&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2345.5" y="-1054.75" as="geometry" />
+          <mxGeometry height="30" width="120" x="2328.5" y="-1054.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;project participation&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2554.5" y="-992" as="geometry" />
+        </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;high growth&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;stabilization&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2456" y="-890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
