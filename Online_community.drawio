@@ -744,8 +744,26 @@
         <mxCell id="544Uq_VntOdpiffqz_bp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;Ostrom&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2007)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1300" y="-680" as="geometry" />
         </mxCell>
-        <mxCell id="544Uq_VntOdpiffqz_bp-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인 커뮤니티의 종류?" vertex="1">
+        <mxCell id="544Uq_VntOdpiffqz_bp-23" edge="1" parent="1" source="544Uq_VntOdpiffqz_bp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="544Uq_VntOdpiffqz_bp-16">
+          <mxGeometry relative="1" x="-0.2061" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="온라인 커뮤니티 사회구조?" vertex="1">
           <mxGeometry height="60" width="170" x="1588" y="-740" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
+          <mxGeometry height="140" width="206.5" x="1810" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Facebook" vertex="1">
+          <mxGeometry height="50" width="81.41" x="1828" y="-765" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Virtual World" vertex="1">
+          <mxGeometry height="50" width="81.41" x="1918" y="-765" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Open-Source&lt;div&gt;Software&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="81.41" x="1828" y="-703" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Wikis" vertex="1">
+          <mxGeometry height="50" width="81.41" x="1918" y="-703" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
