@@ -783,8 +783,17 @@
         <mxCell id="LyFqXrXzL-jF17bUOt5x-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="109" y="-303.3" as="geometry" />
         </mxCell>
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-22" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="LyFqXrXzL-jF17bUOt5x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="공공재 관점?" vertex="1">
           <mxGeometry height="60" width="170" x="1589" y="-1000" as="geometry" />
+        </mxCell>
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
+          <mxGeometry height="177" width="230" x="1845" y="-1058.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Hess &amp;amp; Ostrom&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(2007)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="2190" y="-690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
