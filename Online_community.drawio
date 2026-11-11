@@ -807,6 +807,9 @@
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Free&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Open-Source&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Software&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="192.18" x="1920.29" y="-920" as="geometry" />
         </mxCell>
+        <mxCell id="ahZ_fUlzTFWHtZyWLPdY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;&quot;&gt;Institutional Analysis and Development Framework (IDA)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="428.5" x="2148.48" y="-1199" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
