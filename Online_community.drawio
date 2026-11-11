@@ -777,7 +777,7 @@
         <mxCell id="LyFqXrXzL-jF17bUOt5x-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Boyd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2010)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1970.13" y="-524.5" as="geometry" />
         </mxCell>
-        <mxCell id="LyFqXrXzL-jF17bUOt5x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;sociometric perspectives&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal; font-style: normal;&quot;&gt;ways to understand human lives&lt;/span&gt;" vertex="1">
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-style: normal; font-weight: 400;&quot;&gt;how to do sociometric research on the social structure of online communities&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="205" x="1913.88" y="-687.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -785,6 +785,9 @@
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-22" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="LyFqXrXzL-jF17bUOt5x-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULf9gdxbPERpjQxXo9Pm-7" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;strokeWidth=5;strokeColor=#FFB366;" target="OumlLCBTHmVW-nY39qLK-13">
+          <mxGeometry relative="1" x="0.0028" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="공공재 관점?" vertex="1">
           <mxGeometry height="60" width="170" x="1589" y="-1000" as="geometry" />
@@ -850,7 +853,7 @@
           <mxGeometry height="30" width="120" x="2197" y="-1050" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="self -interest...?" vertex="1">
-          <mxGeometry height="30" width="120" x="2630" y="-1022" as="geometry" />
+          <mxGeometry height="30" width="120" x="2646" y="-1022" as="geometry" />
         </mxCell>
         <mxCell id="ahZ_fUlzTFWHtZyWLPdY-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3;fontColor=#006633;fontSize=10;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;utility, structure infrastructure&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="192.18" x="2160" y="-1141" as="geometry" />
