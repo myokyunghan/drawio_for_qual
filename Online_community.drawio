@@ -585,8 +585,8 @@
         <mxCell id="-vu22tzox1H0tlKe2RB6-10" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;그래서 지금은... 네트워크가 중요합니까? 이것 마저 양극화일까&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;모든 걸 네트워크로 보는데... 네트워크로 설명할 수 없는건 무엇일까?&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;네트워크에는 컨텍스트가 없다... 컨텍스트를 어떻게 넣느냐... 역사 문화 정치 경제 사회의 모든 면을 고려해야 사실 네트워크가 네트워크로서의 가치를 발휘할 수 있는건 아닐까?&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="98.25" width="570" x="-563.91" y="179.75" as="geometry" />
         </mxCell>
-        <mxCell id="-vu22tzox1H0tlKe2RB6-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="208" y="48.25" as="geometry" />
+        <mxCell id="-vu22tzox1H0tlKe2RB6-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="109" y="-1" as="geometry" />
         </mxCell>
         <mxCell id="-vu22tzox1H0tlKe2RB6-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
           <mxGeometry height="248" width="192.18" x="-177.18" y="-92" as="geometry" />
@@ -772,6 +772,9 @@
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;sociometric perspectives&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal; font-style: normal;&quot;&gt;ways to understand human lives&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="205" x="1857.5" y="-1039" as="geometry" />
+        </mxCell>
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="109" y="-303.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
