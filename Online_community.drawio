@@ -742,7 +742,7 @@
           <mxGeometry height="60" width="170" x="900" y="-982" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;Ostrom&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2007)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1300" y="-680" as="geometry" />
+          <mxGeometry height="30" width="90" x="1629" y="-780" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-25" edge="1" parent="1" source="544Uq_VntOdpiffqz_bp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="544Uq_VntOdpiffqz_bp-24">
           <mxGeometry relative="1" as="geometry" />
@@ -751,25 +751,28 @@
           <mxGeometry height="60" width="170" x="1589" y="-740" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
-          <mxGeometry height="140" width="206.5" x="2030" y="-780" as="geometry" />
+          <mxGeometry height="147" width="230" x="2023.5" y="-783" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Facebook" vertex="1">
-          <mxGeometry height="50" width="81.41" x="2048" y="-765" as="geometry" />
+          <mxGeometry height="50" width="81.41" x="2055" y="-755" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Virtual World" vertex="1">
-          <mxGeometry height="50" width="81.41" x="2138" y="-765" as="geometry" />
+          <mxGeometry height="50" width="81.41" x="2145" y="-755" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Open-Source&lt;div&gt;Software&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="81.41" x="2048" y="-703" as="geometry" />
+          <mxGeometry height="50" width="81.41" x="2055" y="-693" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Wikis" vertex="1">
-          <mxGeometry height="50" width="81.41" x="2138" y="-703" as="geometry" />
+          <mxGeometry height="50" width="81.41" x="2145" y="-693" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-26" edge="1" parent="1" source="544Uq_VntOdpiffqz_bp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="544Uq_VntOdpiffqz_bp-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sociometric관점에서의&lt;div&gt;사회구조&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="135" x="1830" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="544Uq_VntOdpiffqz_bp-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;ways to understand human lives&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="269" x="2004" y="-783" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
