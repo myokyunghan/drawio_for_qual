@@ -867,6 +867,12 @@
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Blurring of public/private" vertex="1">
           <mxGeometry height="40" width="81.41" x="1975.68" y="-407" as="geometry" />
         </mxCell>
+        <mxCell id="fZA1D4Mr_4fo8W6b5nli-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Social Exchange Theory" vertex="1">
+          <mxGeometry height="60" width="120" x="857" y="-405" as="geometry" />
+        </mxCell>
+        <mxCell id="fZA1D4Mr_4fo8W6b5nli-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Collective Action" vertex="1">
+          <mxGeometry height="60" width="120" x="857" y="-318.3" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
