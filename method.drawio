@@ -211,7 +211,10 @@
           <mxGeometry height="43" width="360" x="1980" y="565" as="geometry" />
         </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-60" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=east;size=0.1111111111111111;" value="Algorithmic&lt;div&gt;approach&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="120" x="1850" y="616" as="geometry" />
+          <mxGeometry height="360" width="120" x="2320" y="653" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Word Embeddings" vertex="1">
+          <mxGeometry height="43" width="120" x="1850" y="625" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
