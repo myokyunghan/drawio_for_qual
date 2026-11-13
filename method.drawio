@@ -49,11 +49,8 @@
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="측정과 판단기준&lt;div&gt;&lt;i&gt;신뢰도와 타당도&lt;/i&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="-280" y="689" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="레디메이드와&lt;div&gt;&amp;nbsp;커스텀메이드&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="-150" y="744" as="geometry" />
-        </mxCell>
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Iterative Process&lt;div&gt;귀납적 방법&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="-150" y="818" as="geometry" />
+          <mxGeometry height="40" width="110" x="-153" y="768" as="geometry" />
         </mxCell>
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Attention to measurement is all you need" vertex="1">
           <mxGeometry height="50" width="110" x="-20" y="684" as="geometry" />
@@ -64,14 +61,14 @@
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="표집(sampling)" vertex="1">
           <mxGeometry height="20" width="110" x="200" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="빅데이터 특성" vertex="1">
+        <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="레디메이드 데이터" vertex="1">
           <mxGeometry height="20" width="110" x="330" y="645" as="geometry" />
         </mxCell>
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-20" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" value="연구에 토대는 하나도 바뀌지 않았다....!" vertex="1">
           <mxGeometry height="30" width="370" x="-280" y="550" as="geometry" />
         </mxCell>
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="자연실험과 매칭" vertex="1">
-          <mxGeometry height="20" width="110" x="-150" y="790" as="geometry" />
+          <mxGeometry height="20" width="110" x="-153" y="740" as="geometry" />
         </mxCell>
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="발견, 측정, 추론" vertex="1">
           <mxGeometry height="20" width="110" x="-150" y="624" as="geometry" />
@@ -165,6 +162,9 @@
         </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="기존 통계자료분석" vertex="1">
           <mxGeometry height="20" width="110" x="-280" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="자료의 양화" vertex="1">
+          <mxGeometry height="20" width="110" x="200" y="1298" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
