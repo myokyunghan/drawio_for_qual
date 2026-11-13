@@ -14,25 +14,25 @@
           <mxGeometry height="30" width="370" x="-280" y="510" as="geometry" />
         </mxCell>
         <mxCell id="8I9P7HO-_gHnL4_YbH4s-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="실험" vertex="1">
-          <mxGeometry height="30" width="370" x="700" y="600" as="geometry" />
+          <mxGeometry height="30" width="370" x="630" y="595" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="실험의 정의" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="640" as="geometry" />
+          <mxGeometry height="20" width="110" x="630" y="635" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="고전적 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="673" as="geometry" />
+          <mxGeometry height="20" width="110" x="630" y="668" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="현장 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="705" as="geometry" />
+          <mxGeometry height="20" width="110" x="630" y="700" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="웹기반 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="738" as="geometry" />
+          <mxGeometry height="20" width="110" x="630" y="733" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="자연 상태의 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="770" as="geometry" />
+          <mxGeometry height="20" width="110" x="630" y="765" as="geometry" />
         </mxCell>
         <mxCell id="F-echIjVbs8D9STZGPLc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="디지털 현장실험" vertex="1">
-          <mxGeometry height="20" width="110" x="820" y="720" as="geometry" />
+          <mxGeometry height="20" width="110" x="757" y="719" as="geometry" />
         </mxCell>
         <mxCell id="Wu0Fnqx0yKNdkWZA8BQ0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="연구의 정의" vertex="1">
           <mxGeometry height="20" width="110" x="-280" y="589" as="geometry" />
@@ -100,23 +100,56 @@
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" value="" vertex="1">
           <mxGeometry height="30" width="370" x="205" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="Mha8lvZreAM4OsU9ekNZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="3. Quantitative observation : Survey &amp;amp; Experimental Research" vertex="1">
-          <mxGeometry height="30" width="370" x="700" y="515" as="geometry" />
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="3. Quantitative observation : Experimental Research" vertex="1">
+          <mxGeometry height="30" width="370" x="630" y="510" as="geometry" />
         </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-10" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" value="빅데이터 등장 이후 표집에는 덜 신경쓰는 느낌..." vertex="1">
-          <mxGeometry height="30" width="370" x="700" y="555" as="geometry" />
+          <mxGeometry height="30" width="370" x="630" y="550" as="geometry" />
         </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="설문조사" vertex="1">
-          <mxGeometry height="30" width="370" x="700" y="800" as="geometry" />
+          <mxGeometry height="30" width="370" x="1110" y="595" as="geometry" />
         </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="설문에 적합한 주제" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="840" as="geometry" />
+          <mxGeometry height="20" width="110" x="1110" y="635" as="geometry" />
         </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="면접 설문" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="870" as="geometry" />
+          <mxGeometry height="20" width="110" x="1110" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="Mha8lvZreAM4OsU9ekNZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="홍합양식 설문" vertex="1">
-          <mxGeometry height="20" width="110" x="700" y="900" as="geometry" />
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="혼합양식 설문" vertex="1">
+          <mxGeometry height="20" width="110" x="1110" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="타당도와 신뢰도" vertex="1">
+          <mxGeometry height="20" width="110" x="630" y="818" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="타당도와 신뢰도" vertex="1">
+          <mxGeometry height="20" width="110" x="757" y="818" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="비확률 표집" vertex="1">
+          <mxGeometry height="20" width="110" x="1250" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-20" edge="1" parent="1" source="Mha8lvZreAM4OsU9ekNZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;endArrow=none;endFill=0;" target="Mha8lvZreAM4OsU9ekNZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="온라인 설문" vertex="1">
+          <mxGeometry height="20" width="110" x="1110" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="생태순간평가" vertex="1">
+          <mxGeometry height="20" width="110" x="1250" y="753" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="위키 설문조사" vertex="1">
+          <mxGeometry height="20" width="110" x="1250" y="781" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="게임화" vertex="1">
+          <mxGeometry height="20" width="110" x="1250" y="809" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="빅데이터와 설문 연계" vertex="1">
+          <mxGeometry height="20" width="110" x="1250" y="837" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="4. Quantitative observation : Survey Research" vertex="1">
+          <mxGeometry height="30" width="370" x="1110" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Mha8lvZreAM4OsU9ekNZ-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="실험 방법의 장단점" vertex="1">
+          <mxGeometry height="20" width="110" x="630" y="789" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
