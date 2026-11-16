@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="3177" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3114" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,6 +210,15 @@
         </mxCell>
         <mxCell id="VdmwL8oV81wQtW2lxVk2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="7. Analysis of Natural Language Data" vertex="1">
           <mxGeometry height="30" width="370" x="1740" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="VdmwL8oV81wQtW2lxVk2-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Discriminating words&lt;div&gt;Clustering(probabilistic vs. algorithmic)&lt;/div&gt;&lt;div&gt;Topic modeling&lt;/div&gt;&lt;div&gt;Low-dimantional Document Embedding&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="370" x="1740" y="679" as="geometry" />
+        </mxCell>
+        <mxCell id="VdmwL8oV81wQtW2lxVk2-5" edge="1" parent="1" source="VdmwL8oV81wQtW2lxVk2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VdmwL8oV81wQtW2lxVk2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdmwL8oV81wQtW2lxVk2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;" value="탐색" vertex="1">
+          <mxGeometry height="82" width="110" x="1170" y="679" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
