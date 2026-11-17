@@ -867,61 +867,64 @@
           <mxGeometry relative="1" x="0.8057" as="geometry">
             <Array as="points">
               <mxPoint x="1830" y="-800" />
-              <mxPoint x="1830" y="-860" />
+              <mxPoint x="1830" y="-877" />
             </Array>
             <mxPoint x="1760" y="-870" as="sourcePoint" />
             <mxPoint x="1760" y="-1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-17" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;집단 수준&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="746" x="1877" y="-880" as="geometry" />
-        </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165.15" width="192.18" x="1956.1300000000003" y="-918.15" as="geometry" />
-        </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;상호작용 동기&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2007.2200000000003" y="-918.15" as="geometry" />
-        </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2;fontSize=10;fontColor=#4D4D4D;" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social Exchange&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="192.18" x="1956.1300000000003" y="-810" as="geometry" />
+          <mxGeometry height="40" width="746" x="1877" y="-897" as="geometry" />
         </mxCell>
         <mxCell id="kMqQDXSPfCzCr5Yoh2u4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165.15" width="192.18" x="2174.88" y="-918.15" as="geometry" />
-        </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;사회자본 동원&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2225.97" y="-918.15" as="geometry" />
+          <mxGeometry height="73.15" width="192.18" x="2174.88" y="-920.15" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Collective&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-style: normal; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Action&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;(Wasko et al., 2005;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Schmitz &amp;amp; Samory, 2025)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="192.18" x="2174.88" y="-880" as="geometry" />
+          <mxGeometry height="30" width="192.18" x="2174.88" y="-897" as="geometry" />
         </mxCell>
         <mxCell id="kMqQDXSPfCzCr5Yoh2u4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165.15" width="192.18" x="2397.82" y="-918.15" as="geometry" />
-        </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;보상/성과&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2452.5" y="-918.15" as="geometry" />
+          <mxGeometry height="73.15" width="192.18" x="2397.82" y="-920.15" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;공유지, 제도 형성&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2448.91" y="-880" as="geometry" />
+          <mxGeometry height="30" width="90" x="2448.91" y="-897" as="geometry" />
         </mxCell>
         <mxCell id="kMqQDXSPfCzCr5Yoh2u4-2" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#FFB366;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="M9mnW4NH3l2mke8VcrMz-33" value="">
-          <mxGeometry relative="1" x="0.1958" as="geometry">
+          <mxGeometry relative="1" x="0.2212" as="geometry">
             <Array as="points">
               <mxPoint x="985" y="-930" />
               <mxPoint x="2380" y="-930" />
-              <mxPoint x="2380" y="-865" />
+              <mxPoint x="2380" y="-882" />
             </Array>
             <mxPoint x="985" y="-1010" as="sourcePoint" />
             <mxPoint x="2240" y="-1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;다른자본으로의 전환&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;안녕감, 성과&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2437.5" y="-815" as="geometry" />
-        </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social support&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="192.18" x="2174.88" y="-820" as="geometry" />
+          <mxGeometry height="30" width="192.18" x="2245.32" y="-1100" as="geometry" />
         </mxCell>
-        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Obligation&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Expectation&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="192.18" x="1956.1300000000003" y="-850" as="geometry" />
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="73.15" width="192.18" x="1955.63" y="-920.1500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Collective&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-style: normal; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Asset&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;(Wasko et al., 2005;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Schmitz &amp;amp; Samory, 2025)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="1957.3" y="-897" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="73.15" width="192.18" x="1957.3" y="-836.5699999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;동기 위치&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="1957.3" y="-815" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="73.15" width="192.18" x="2174.88" y="-836.57" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;자원 접근 동원&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="2174.88" y="-815" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="73.15" width="192.18" x="2397.82" y="-836.5699999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="M9mnW4NH3l2mke8VcrMz-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;다른자본으로의 전환&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;안녕감, 성과&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2431" y="-815" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
