@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="4922" dy="6188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2472" dy="3162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -753,22 +753,22 @@
           <mxGeometry height="60" width="170" x="1643.63" y="-474" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
-          <mxGeometry height="177" width="230" x="1956.13" y="-532.5" as="geometry" />
+          <mxGeometry height="177" width="192.18" x="1956.13" y="-532.5" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Facebook" vertex="1">
-          <mxGeometry height="40" width="81.41" x="1986.67" y="-461.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="1969.67" y="-455.5" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Virtual World" vertex="1">
-          <mxGeometry height="40" width="81.41" x="2076.67" y="-461.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="2059.67" y="-455.5" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Open-Source&lt;div&gt;Software&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="81.41" x="1986.67" y="-409.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="1969.67" y="-403.5" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Wikis" vertex="1">
-          <mxGeometry height="40" width="81.41" x="2076.67" y="-409.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="2059.67" y="-403.5" as="geometry" />
         </mxCell>
         <mxCell id="544Uq_VntOdpiffqz_bp-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Bainbridge&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(2020)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="1982.38" y="-522.5" as="geometry" />
+          <mxGeometry height="30" width="180" x="1962.22" y="-530.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-15" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="LyFqXrXzL-jF17bUOt5x-6">
           <mxGeometry relative="1" as="geometry" />
@@ -777,16 +777,16 @@
           <mxGeometry height="60" width="170" x="1643.63" y="-671.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
-          <mxGeometry height="165.15" width="230" x="1956.13" y="-724" as="geometry" />
+          <mxGeometry height="165.15" width="192.18" x="1956.13" y="-724" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Public &amp;amp; Networked Publics&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Affordance&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Dynamics in Networked publics&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="220.5" x="1962.13" y="-691.5" as="geometry" />
+          <mxGeometry height="40" width="192.18" x="1955.63" y="-691.5" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Boyd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2010)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2026.13" y="-722" as="geometry" />
+          <mxGeometry height="30" width="90" x="2003.13" y="-722" as="geometry" />
         </mxCell>
-        <mxCell id="LyFqXrXzL-jF17bUOt5x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-style: normal; font-weight: 400;&quot;&gt;how to do sociometric research on the social structure of online communities&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="205" x="1969.88" y="-491.5" as="geometry" />
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="&lt;span style=&quot;font-style: normal; font-weight: 400;&quot;&gt;how to do sociometric research&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal; font-weight: 400;&quot;&gt;on the social structure of online communities&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="1956" y="-494" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;Castells&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2000)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="109" y="-303.3" as="geometry" />
@@ -852,13 +852,13 @@
           <mxGeometry height="30" width="192.18" x="1376.3799999999999" y="-1211" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Invisible audiance" vertex="1">
-          <mxGeometry height="40" width="81.41" x="1986.67" y="-648.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="1967.67" y="-648.5" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Collapse context" vertex="1">
-          <mxGeometry height="40" width="81.41" x="2076.67" y="-648.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="2057.67" y="-648.5" as="geometry" />
         </mxCell>
         <mxCell id="ULf9gdxbPERpjQxXo9Pm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Blurring of public/private" vertex="1">
-          <mxGeometry height="40" width="81.41" x="2031.68" y="-604.5" as="geometry" />
+          <mxGeometry height="40" width="81.41" x="2012.68" y="-604.5" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-6" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;개인 수준&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="746" x="1877" y="-820" as="geometry" />
@@ -877,48 +877,51 @@
           <mxGeometry height="40" width="746" x="1877" y="-880" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165.15" width="192.18" x="1956.67" y="-918.15" as="geometry" />
+          <mxGeometry height="165.15" width="192.18" x="1956.1300000000003" y="-918.15" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;상호작용 동기&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1971.67" y="-918.15" as="geometry" />
+          <mxGeometry height="30" width="90" x="2007.2200000000003" y="-918.15" as="geometry" />
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social Exchange&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1969.88" y="-815" as="geometry" />
+        <mxCell id="M9mnW4NH3l2mke8VcrMz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2;fontSize=10;fontColor=#4D4D4D;" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social Exchange&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="1956.1300000000003" y="-810" as="geometry" />
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165.15" width="205" x="2175" y="-918.15" as="geometry" />
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="165.15" width="192.18" x="2174.88" y="-918.15" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;사회자본 동원&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2276" y="-918.15" as="geometry" />
+          <mxGeometry height="30" width="90" x="2225.97" y="-918.15" as="geometry" />
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social support&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2276" y="-815" as="geometry" />
+        <mxCell id="M9mnW4NH3l2mke8VcrMz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Collective&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-style: normal; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Action&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;(Wasko et al., 2005;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Schmitz &amp;amp; Samory, 2025)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="2174.88" y="-880" as="geometry" />
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Collective&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-style: normal; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Action&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Schmitz &amp;amp; Samory, 2025)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2273.09" y="-875" as="geometry" />
-        </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="165.15" width="180" x="2401" y="-918.15" as="geometry" />
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="165.15" width="192.18" x="2397.82" y="-918.15" as="geometry" />
         </mxCell>
         <mxCell id="M9mnW4NH3l2mke8VcrMz-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;보상/성과&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2417" y="-918.15" as="geometry" />
+          <mxGeometry height="30" width="90" x="2452.5" y="-918.15" as="geometry" />
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;다른자본으로의 전환&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;안녕감, 성과&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="2401" y="-815" as="geometry" />
+        <mxCell id="M9mnW4NH3l2mke8VcrMz-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;공유지, 제도 형성&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="2448.91" y="-880" as="geometry" />
         </mxCell>
-        <mxCell id="M9mnW4NH3l2mke8VcrMz-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;공유지, 제도, 성과&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="2414.09" y="-875" as="geometry" />
-        </mxCell>
-        <mxCell id="ULf9gdxbPERpjQxXo9Pm-7" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#FFB366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashPattern=1 1;" target="M9mnW4NH3l2mke8VcrMz-33">
-          <mxGeometry relative="1" x="0.439" as="geometry">
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-2" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#FFB366;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="M9mnW4NH3l2mke8VcrMz-33" value="">
+          <mxGeometry relative="1" x="0.1958" as="geometry">
             <Array as="points">
               <mxPoint x="985" y="-930" />
-              <mxPoint x="2230" y="-930" />
-              <mxPoint x="2230" y="-860" />
+              <mxPoint x="2380" y="-930" />
+              <mxPoint x="2380" y="-865" />
             </Array>
-            <mxPoint x="1884" y="-1169" as="sourcePoint" />
-            <mxPoint x="1814" y="-1039" as="targetPoint" />
+            <mxPoint x="985" y="-1010" as="sourcePoint" />
+            <mxPoint x="2240" y="-1020" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M9mnW4NH3l2mke8VcrMz-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;다른자본으로의 전환&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;안녕감, 성과&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2437.5" y="-815" as="geometry" />
+        </mxCell>
+        <mxCell id="M9mnW4NH3l2mke8VcrMz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Social support&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="2174.88" y="-820" as="geometry" />
+        </mxCell>
+        <mxCell id="kMqQDXSPfCzCr5Yoh2u4-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Obligation&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Expectation&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="192.18" x="1956.1300000000003" y="-850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
