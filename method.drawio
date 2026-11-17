@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="3114" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2198" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,6 +246,12 @@
         </mxCell>
         <mxCell id="VdmwL8oV81wQtW2lxVk2-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Prediction&lt;div&gt;Causal Inference&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="370" x="1740" y="784" as="geometry" />
+        </mxCell>
+        <mxCell id="qQscfh_OZCK74wOqXar4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LLM 기반 실험" vertex="1">
+          <mxGeometry height="20" width="110" x="780" y="647" as="geometry" />
+        </mxCell>
+        <mxCell id="qQscfh_OZCK74wOqXar4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LLM 기반 설문" vertex="1">
+          <mxGeometry height="20" width="110" x="790" y="993" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
