@@ -250,10 +250,10 @@
         <mxCell id="VdmwL8oV81wQtW2lxVk2-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Prediction&lt;div&gt;Causal Inference&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="370" x="1740" y="784" as="geometry" />
         </mxCell>
-        <mxCell id="qQscfh_OZCK74wOqXar4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LLM 기반 실험" vertex="1">
-          <mxGeometry height="20" width="110" x="780" y="647" as="geometry" />
+        <mxCell id="qQscfh_OZCK74wOqXar4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Silicon sampling" vertex="1">
+          <mxGeometry height="20" width="110" x="790" y="647" as="geometry" />
         </mxCell>
-        <mxCell id="qQscfh_OZCK74wOqXar4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LLM 기반 설문" vertex="1">
+        <mxCell id="qQscfh_OZCK74wOqXar4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Siliconsampling" vertex="1">
           <mxGeometry height="20" width="110" x="790" y="993" as="geometry" />
         </mxCell>
         <mxCell id="qQscfh_OZCK74wOqXar4-4" edge="1" parent="1" source="VdmwL8oV81wQtW2lxVk2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;" target="qQscfh_OZCK74wOqXar4-3" value="">
@@ -265,8 +265,8 @@
         <mxCell id="qQscfh_OZCK74wOqXar4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LLM 기반 예측" vertex="1">
           <mxGeometry height="20" width="110" x="1310" y="815" as="geometry" />
         </mxCell>
-        <mxCell id="d7-FZrFdbJoXv7PvgSi--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Mixed subjects design-PPI" vertex="1">
-          <mxGeometry height="30" width="110" x="790" y="761" as="geometry" />
+        <mxCell id="d7-FZrFdbJoXv7PvgSi--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Mixed subjects design-PPI&lt;div&gt;Algorithmic Fidelity&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="790" y="746" as="geometry" />
         </mxCell>
         <mxCell id="d7-FZrFdbJoXv7PvgSi--3" edge="1" parent="1" source="Mha8lvZreAM4OsU9ekNZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;endArrow=none;endFill=0;" target="d7-FZrFdbJoXv7PvgSi--1">
           <mxGeometry relative="1" x="-0.8626" as="geometry">
