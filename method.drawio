@@ -223,7 +223,7 @@
         <mxCell id="VdmwL8oV81wQtW2lxVk2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;" value="탐색" vertex="1">
           <mxGeometry height="82" width="110" x="1170" y="677" as="geometry" />
         </mxCell>
-        <mxCell id="VdmwL8oV81wQtW2lxVk2-8" edge="1" parent="1" source="VdmwL8oV81wQtW2lxVk2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;" target="VdmwL8oV81wQtW2lxVk2-7">
+        <mxCell id="VdmwL8oV81wQtW2lxVk2-8" edge="1" parent="1" source="d7-FZrFdbJoXv7PvgSi--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;" target="VdmwL8oV81wQtW2lxVk2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdmwL8oV81wQtW2lxVk2-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;" value="측정" vertex="1">
@@ -269,7 +269,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d7-FZrFdbJoXv7PvgSi--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LLM 답변 편향" vertex="1">
-          <mxGeometry height="20" width="110" x="280" y="603" as="geometry" />
+          <mxGeometry height="20" width="110" x="790" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="d7-FZrFdbJoXv7PvgSi--9" edge="1" parent="1" source="VdmwL8oV81wQtW2lxVk2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;" target="d7-FZrFdbJoXv7PvgSi--8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="1279" as="sourcePoint" />
+            <mxPoint x="1560" y="1279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d7-FZrFdbJoXv7PvgSi--8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LLM coder" vertex="1">
+          <mxGeometry height="20" width="110" x="790" y="1269" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
