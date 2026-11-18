@@ -1083,6 +1083,9 @@
         <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Pervasive&lt;div&gt;awareness&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="81.41" x="2264.59" y="-691.49" as="geometry" />
         </mxCell>
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Persistent-pervasive community&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Social capital, Linked lives, The cost of caring, Collective action, The spiral of silence&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="73.15" width="192.18" x="2162.48" y="-652" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
