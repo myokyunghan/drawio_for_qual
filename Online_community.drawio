@@ -1054,16 +1054,16 @@
         <mxCell id="GJzlEkfnE8TYuiKK3QE5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="작은 개인 커뮤니티" vertex="1">
           <mxGeometry height="50" width="81.41" x="-77.50000000000001" y="255" as="geometry" />
         </mxCell>
-        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="자원의 유출입" vertex="1">
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="in/out flow of&lt;div&gt;resources&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="81.41" x="2174.56" y="-491.5" as="geometry" />
         </mxCell>
-        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="긴장" vertex="1">
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Tensions" vertex="1">
           <mxGeometry height="40" width="81.41" x="2264.59" y="-490.75" as="geometry" />
         </mxCell>
-        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="생산적 대응" vertex="1">
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Generative responses" vertex="1">
           <mxGeometry height="40" width="81.41" x="2175" y="-440" as="geometry" />
         </mxCell>
-        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="지식 협업" vertex="1">
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="knowledge collaboration" vertex="1">
           <mxGeometry height="40" width="81.41" x="2264.59" y="-440" as="geometry" />
         </mxCell>
         <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-5" edge="1" parent="1" source="544Uq_VntOdpiffqz_bp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;endArrow=none;endFill=0;" target="Oi-HcA_0gKfyJwo0JgdZ-1">
@@ -1073,9 +1073,6 @@
               <mxPoint x="2154.6" y="-471.5" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;b&gt;Two affordance&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;(persistent contact, pervasive awareness)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;renews the constraints and opportunities of premodern community structure&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="192.18" x="2686.82" y="-568.5" as="geometry" />
         </mxCell>
         <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="Persistent&lt;div&gt;contact&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="81.41" x="2174.56" y="-691.49" as="geometry" />
