@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="4117" dy="3986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5812" dy="4835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
         <mxCell id="Oj9_CVD_wxPswd6i6Qbj-3" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="-vu22tzox1H0tlKe2RB6-35">
           <mxGeometry relative="1" x="0.0227" as="geometry" />
         </mxCell>
-        <mxCell id="OumlLCBTHmVW-nY39qLK-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="인터넷의&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;등장?&lt;/span&gt;" vertex="1">
+        <mxCell id="OumlLCBTHmVW-nY39qLK-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="인터넷의&amp;nbsp;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;등장?&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="329.5" y="18.25" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OumlLCBTHmVW-nY39qLK-13">
@@ -794,7 +794,7 @@
         <mxCell id="LyFqXrXzL-jF17bUOt5x-22" edge="1" parent="1" source="LyFqXrXzL-jF17bUOt5x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="LyFqXrXzL-jF17bUOt5x-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LyFqXrXzL-jF17bUOt5x-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="공공재 관점?" vertex="1">
+        <mxCell id="LyFqXrXzL-jF17bUOt5x-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="공공재 관점?" vertex="1">
           <mxGeometry height="60" width="170" x="900" y="-1106" as="geometry" />
         </mxCell>
         <mxCell id="LyFqXrXzL-jF17bUOt5x-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
