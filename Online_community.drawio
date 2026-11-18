@@ -1000,7 +1000,7 @@
         <mxCell id="GJzlEkfnE8TYuiKK3QE5-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Rainie &amp;amp; Wellman&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;(2012)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="49" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="GJzlEkfnE8TYuiKK3QE5-14" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;사회구조는 바뀌었지만 사회자본 이론은 변하지 않았다&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;다만 개인 수준을 더 고려하려는 노력...?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="GJzlEkfnE8TYuiKK3QE5-14" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;사회구조는 바뀌었지만 사회자본 이론 or 활용 or 해석 변하지 않았다&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;다만 개인 수준을 더 고려하려는 노력...?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="98.25" width="408" x="2367.06" y="-740.62" as="geometry" />
         </mxCell>
         <mxCell id="GJzlEkfnE8TYuiKK3QE5-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=11;" value="" vertex="1">
@@ -1030,6 +1030,15 @@
         <mxCell id="GJzlEkfnE8TYuiKK3QE5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#E6E6E6;flipH=1;legacyAnchorPoints=0;flipV=1;" value="광범위한 연결" vertex="1">
           <mxGeometry height="50" width="81.41" x="-165.00000000000006" y="195" as="geometry" />
         </mxCell>
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-6" edge="1" parent="1" source="GJzlEkfnE8TYuiKK3QE5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;strokeColor=#FFB366;dashed=1;strokeWidth=2;" target="GJzlEkfnE8TYuiKK3QE5-1">
+          <mxGeometry relative="1" x="-0.0784" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="205" />
+              <mxPoint x="300" y="-370" />
+              <mxPoint x="2258.6" y="-370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GJzlEkfnE8TYuiKK3QE5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#FFE599;flipH=1;legacyAnchorPoints=0;flipV=1;" value="집단 개념의&amp;nbsp;&lt;div&gt;약화&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="81.41" x="-75.32000000000001" y="195" as="geometry" />
         </mxCell>
@@ -1056,6 +1065,14 @@
         </mxCell>
         <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillStyle=cross-hatch;fillColor=#CCCCCC;flipH=1;legacyAnchorPoints=0;flipV=1;" value="지식 협업" vertex="1">
           <mxGeometry height="40" width="81.41" x="2264.59" y="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-5" edge="1" parent="1" source="544Uq_VntOdpiffqz_bp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;endArrow=none;endFill=0;" target="Oi-HcA_0gKfyJwo0JgdZ-1">
+          <mxGeometry relative="1" x="0.0061" as="geometry">
+            <Array as="points">
+              <mxPoint x="2154.6" y="-419.5" />
+              <mxPoint x="2154.6" y="-471.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
