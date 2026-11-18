@@ -259,8 +259,8 @@
         <mxCell id="qQscfh_OZCK74wOqXar4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LLM 기반 예측" vertex="1">
           <mxGeometry height="20" width="110" x="1310" y="815" as="geometry" />
         </mxCell>
-        <mxCell id="d7-FZrFdbJoXv7PvgSi--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Mixed subjects design-PPI&lt;div&gt;Algorithmic Fidelity&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="790" y="746" as="geometry" />
+        <mxCell id="d7-FZrFdbJoXv7PvgSi--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Fine tuning&lt;/div&gt;&lt;div&gt;Activation sterring&lt;/div&gt;Mixed subjects design-PPI&lt;div&gt;Algorithmic Fidelity&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="110" x="790" y="734" as="geometry" />
         </mxCell>
         <mxCell id="d7-FZrFdbJoXv7PvgSi--3" edge="1" parent="1" source="Mha8lvZreAM4OsU9ekNZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;endArrow=none;endFill=0;" target="d7-FZrFdbJoXv7PvgSi--1">
           <mxGeometry relative="1" x="-0.8626" as="geometry">
