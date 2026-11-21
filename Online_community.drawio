@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="2472" dy="3162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="3663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
         <mxCell id="rLVTjc8L4_w8k9dLyB5M-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;개인&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="1490" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="rLVTjc8L4_w8k9dLyB5M-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;동원 가능한 실제적 잠재적 &lt;b&gt;자원&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="rLVTjc8L4_w8k9dLyB5M-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;집단 소속을 통해 동원 가능한 실제적 잠재적 &lt;b&gt;자원&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="1475" y="210" as="geometry" />
         </mxCell>
         <mxCell id="g0Nhq63hVkF9bFyseFyn-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;소속 집단&lt;/span&gt;" vertex="1">
