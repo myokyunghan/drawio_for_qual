@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="740" y="1620" as="geometry" />
+        </mxCell>
         <mxCell id="VdmwL8oV81wQtW2lxVk2-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="859" width="410" x="1540" y="480" as="geometry" />
         </mxCell>
@@ -289,14 +292,115 @@
         <mxCell id="7wDfpC2XAKcrZULNfZcR-4" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Q4" vertex="1">
           <mxGeometry height="60" width="100" x="-40" y="1620" as="geometry" />
         </mxCell>
-        <mxCell id="7wDfpC2XAKcrZULNfZcR-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;디지털흔적&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;레디메이드데이터&lt;/div&gt;&lt;div&gt;비대표성&lt;/div&gt;&lt;div&gt;변동성&lt;/div&gt;" vertex="1">
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;디지털흔적&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;레디메이드데이터&lt;/div&gt;&lt;div&gt;비대표성&lt;/div&gt;&lt;div&gt;변동성&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="90" y="1700" as="geometry" />
         </mxCell>
-        <mxCell id="7wDfpC2XAKcrZULNfZcR-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;자연실험&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;실험에 근사시키기&lt;/div&gt;&lt;div&gt;단일집단 사전사후 조사 설계&lt;/div&gt;" vertex="1">
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;자연실험&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;실험에 근사시키기&lt;/div&gt;&lt;div&gt;단일집단 사전사후 조사 설계&lt;/div&gt;&lt;div&gt;but 한계점&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="310" y="1700" as="geometry" />
         </mxCell>
-        <mxCell id="7wDfpC2XAKcrZULNfZcR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;내적 타당성문제&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;제도...이런것들&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;외적/내적 타당성문제&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;제도...이런것들&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="540" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q4 (방법론)&lt;/strong&gt; MK는 COVID-19 이전과 이후의 상호작용을 비교해 H2를 검증하려 한다. 디지털 흔적 데이터의 특성을 고려할 때, 이 전후 비교에서 관찰된 차이를 신규 사용자 유입의 효과로 해석하려면 어떤 문제를 해결해야 하며, 이를 위해 어떤 연구 설계가 필요한지 논하시오.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="670" x="67" y="1619" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;개념화/조작화&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규 사용자&amp;nbsp;&lt;/div&gt;&lt;div&gt;상호작용&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="90" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-18" parent="1" style="shape=table;tableRender=collapsed;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=12;" value="Table" vertex="1">
+          <mxGeometry height="190" width="510" x="90" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-19" parent="7wDfpC2XAKcrZULNfZcR-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="40" width="510" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-40" parent="7wDfpC2XAKcrZULNfZcR-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="가입시기" vertex="1">
+          <mxGeometry height="40" width="133" as="geometry">
+            <mxRectangle height="40" width="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-20" parent="7wDfpC2XAKcrZULNfZcR-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="활동시기" vertex="1">
+          <mxGeometry height="40" width="132" x="133" as="geometry">
+            <mxRectangle height="40" width="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-21" parent="7wDfpC2XAKcrZULNfZcR-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;상호작용 O&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="265" as="geometry">
+            <mxRectangle height="40" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-22" parent="7wDfpC2XAKcrZULNfZcR-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;상호작용 X&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="165" x="345" as="geometry">
+            <mxRectangle height="40" width="165" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-23" parent="7wDfpC2XAKcrZULNfZcR-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="40" width="510" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-41" parent="7wDfpC2XAKcrZULNfZcR-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;2018.03~2019.03 가입&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="133" as="geometry">
+            <mxRectangle height="40" width="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-24" parent="7wDfpC2XAKcrZULNfZcR-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;가입일 이후1년&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="132" x="133" as="geometry">
+            <mxRectangle height="40" width="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-25" parent="7wDfpC2XAKcrZULNfZcR-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="40" width="80" x="265" as="geometry">
+            <mxRectangle height="40" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-26" parent="7wDfpC2XAKcrZULNfZcR-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="40" width="165" x="345" as="geometry">
+            <mxRectangle height="40" width="165" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-27" parent="7wDfpC2XAKcrZULNfZcR-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="40" width="510" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-42" parent="7wDfpC2XAKcrZULNfZcR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=12;" value="2019.03~2020.03 가입" vertex="1">
+          <mxGeometry height="40" width="133" as="geometry">
+            <mxRectangle height="40" width="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-28" parent="7wDfpC2XAKcrZULNfZcR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=12;" value="가입일 이후1년" vertex="1">
+          <mxGeometry height="40" width="132" x="133" as="geometry">
+            <mxRectangle height="40" width="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-29" parent="7wDfpC2XAKcrZULNfZcR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="40" width="80" x="265" as="geometry">
+            <mxRectangle height="40" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-30" parent="7wDfpC2XAKcrZULNfZcR-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="40" width="165" x="345" as="geometry">
+            <mxRectangle height="40" width="165" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-36" parent="7wDfpC2XAKcrZULNfZcR-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
+          <mxGeometry height="40" width="510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-43" parent="7wDfpC2XAKcrZULNfZcR-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=12;" value="2020.03~2021.03 가입" vertex="1">
+          <mxGeometry height="40" width="133" as="geometry">
+            <mxRectangle height="40" width="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-37" parent="7wDfpC2XAKcrZULNfZcR-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=12;" value="가입일 이후1년" vertex="1">
+          <mxGeometry height="40" width="132" x="133" as="geometry">
+            <mxRectangle height="40" width="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-38" parent="7wDfpC2XAKcrZULNfZcR-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="40" width="80" x="265" as="geometry">
+            <mxRectangle height="40" width="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-39" parent="7wDfpC2XAKcrZULNfZcR-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+          <mxGeometry height="40" width="165" x="345" as="geometry">
+            <mxRectangle height="40" width="165" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
