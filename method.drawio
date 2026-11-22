@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2201" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,6 +282,21 @@
         </mxCell>
         <mxCell id="QCQ08sh0SuHf0XfoPyET-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Design-based Supervised Learning, DSL&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="125" x="775" y="1329" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-5" edge="1" parent="1" source="7wDfpC2XAKcrZULNfZcR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="7wDfpC2XAKcrZULNfZcR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-4" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Q4" vertex="1">
+          <mxGeometry height="60" width="100" x="-40" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;디지털흔적&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;레디메이드데이터&lt;/div&gt;&lt;div&gt;비대표성&lt;/div&gt;&lt;div&gt;변동성&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="90" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;자연실험&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;실험에 근사시키기&lt;/div&gt;&lt;div&gt;단일집단 사전사후 조사 설계&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="310" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="7wDfpC2XAKcrZULNfZcR-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;내적 타당성문제&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;제도...이런것들&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="540" y="1700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
