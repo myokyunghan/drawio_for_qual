@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2847" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,20 +126,26 @@
         <mxCell id="UHKvrZoLikHgII5Ms00M-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="930" x="-610" y="122" as="geometry" />
         </mxCell>
+        <mxCell id="UHKvrZoLikHgII5Ms00M-37" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="UHKvrZoLikHgII5Ms00M-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-32" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Q3" vertex="1">
           <mxGeometry height="60" width="100" x="-650" y="122" as="geometry" />
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q3 (이론)&lt;/strong&gt; H2는 신규 사용자의 유입이 상호작용 양상을 바꾼다고 보지만, 어떤 방향으로 바뀌는지는 말하지 않는다. 네트워크 이론 중 하나를 골라 그 선택을 정당화하고, 그 이론에 근거해 H2를 방향이 있는 가설로 구체화한 뒤, 그 이론이 이 변화를 어디까지 설명할 수 있고 어디서부터 설명하지 못하는지 논하시오.&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="863" x="-543" y="121" as="geometry" />
         </mxCell>
-        <mxCell id="UHKvrZoLikHgII5Ms00M-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;Granovetter&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;strength of weak tie&lt;/div&gt;&lt;div&gt;briding역할을 할 수 있는 사람들이 많아진다? 진짜 그런지 시간의 흐름에 따라 본다?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="-380" y="210" as="geometry" />
+        <mxCell id="UHKvrZoLikHgII5Ms00M-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;weak tie/bridge/broker&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;strength of weak tie&lt;/div&gt;&lt;div&gt;briding역할을 할 수 있는 사람들이 많아진다? 진짜 그런지 시간의 흐름에 따라 본다?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;bridging structural hole&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="200" x="-250" y="200" as="geometry" />
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;상호작용의 정의&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;상호작용을 어떻게 정의할것이냐&lt;/div&gt;&lt;div&gt;질의응답한번 하면 되는것이냐?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="-600" y="210" as="geometry" />
+          <mxGeometry height="170" width="200" x="-470" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="UHKvrZoLikHgII5Ms00M-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;Granovetter&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;strength of weak tie&lt;/div&gt;&lt;div&gt;briding역할을 할 수 있는 사람들이 많아진다? 진짜 그런지 시간의 흐름에 따라 본다?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="-160" y="210" as="geometry" />
+        <mxCell id="UHKvrZoLikHgII5Ms00M-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;closure&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규 유입이 들어오면 사실 그 때문에 더더욱 양극화나 집단분리가 될 수도 있을 것같다. 왜냐면 그들이 코어가 해야하는 역할이 분명해지기 때문에&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그래서 강한 core와 periphery로 나뉠수도 있음&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="200" x="-30" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="200" x="-240" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
