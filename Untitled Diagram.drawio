@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="1777" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2696" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,15 @@
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="-240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="sQuDpqLpDAk31aIg_1tL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="930" x="-620" y="-319" as="geometry" />
+        </mxCell>
+        <mxCell id="sQuDpqLpDAk31aIg_1tL-2" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Q1" vertex="1">
+          <mxGeometry height="60" width="100" x="-660" y="-319" as="geometry" />
+        </mxCell>
+        <mxCell id="sQuDpqLpDAk31aIg_1tL-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q3 (이론)&lt;/strong&gt; H2는 신규 사용자의 유입이 상호작용 양상을 바꾼다고 보지만, 어떤 방향으로 바뀌는지는 말하지 않는다. 네트워크 이론 중 하나를 골라 그 선택을 정당화하고, 그 이론에 근거해 H2를 방향이 있는 가설로 구체화한 뒤, 그 이론이 이 변화를 어디까지 설명할 수 있고 어디서부터 설명하지 못하는지 논하시오.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="863" x="-553" y="-320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
