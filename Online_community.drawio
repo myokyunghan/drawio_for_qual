@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="5812" dy="4835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2472" dy="3162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,16 +363,6 @@
             <mxPoint x="1889" y="50" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkhLLc9zeO8zVeCm2dUm-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SkhLLc9zeO8zVeCm2dUm-18">
-          <mxGeometry relative="1" x="0.0252" as="geometry">
-            <Array as="points">
-              <mxPoint x="1900" y="50" />
-              <mxPoint x="1900" y="-286" />
-            </Array>
-            <mxPoint x="1889" y="50" as="sourcePoint" />
-            <mxPoint x="1940" y="-133" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-8" edge="1" parent="1" source="g0Nhq63hVkF9bFyseFyn-14" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="AWHQmhJ_QrZdobIPUFMp-3" value="">
           <mxGeometry height="50" relative="1" width="50" x="-0.7866" as="geometry">
             <mxPoint x="1920" y="884" as="sourcePoint" />
@@ -395,7 +385,7 @@
           <mxGeometry height="40" width="746" x="2333" y="-43.25" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-7" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;align=left;size=0.029850746268656716;" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;decrease&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;social capital&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="746" x="2333" y="29.75" as="geometry" />
+          <mxGeometry height="40" width="746" x="2333" y="28.75" as="geometry" />
         </mxCell>
         <mxCell id="AWHQmhJ_QrZdobIPUFMp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="248" width="120" x="2452.5" y="-158.5" as="geometry" />
@@ -431,7 +421,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="온라인 환경 → 사회 자본" vertex="1">
-          <mxGeometry height="40" width="135" x="2125" y="29.75" as="geometry" />
+          <mxGeometry height="40" width="135" x="2125" y="28.75" as="geometry" />
         </mxCell>
         <mxCell id="SkhLLc9zeO8zVeCm2dUm-28" edge="1" parent="1" source="SkhLLc9zeO8zVeCm2dUm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="SkhLLc9zeO8zVeCm2dUm-25">
           <mxGeometry relative="1" as="geometry" />
@@ -459,6 +449,9 @@
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;그 당시 사회자본이 증가, 보조, 감소하는 이유들에 대해 서술하고, 현재의 인터넷 환경에서는 어떻게 변화했는지?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;사회자본을 네트워크로 측정한 논문이 없습니다...?&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;퍼트넘 계열은 측정이 힘드니... 그런것일까요?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;웰먼 말고는 없는걸까요?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="98.25" width="618.25" x="2440.75" y="-334.12" as="geometry" />
+        </mxCell>
+        <mxCell id="QzK8wbVYhlptqKk_Mqtt-1" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SkhLLc9zeO8zVeCm2dUm-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="1589" y="19" as="geometry" />
