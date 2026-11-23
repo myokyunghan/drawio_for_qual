@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2434" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="sQuDpqLpDAk31aIg_1tL-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;그 때 작용하는 사회자본&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;콜먼, 퍼트넘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;부르디외 린 버트&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="-119" y="-320" as="geometry" />
         </mxCell>
-        <mxCell id="sQuDpqLpDAk31aIg_1tL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;그 때 작용하는 사회자본&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규숙련자가 이 커뮤니티의 규범에 익숙해지는데까지는 퍼트넘과 콜먼이 말한 사회자본이 중요&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;이후에는 린이나 버트나 부르디외가 말한 사회자본이 중요&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="sQuDpqLpDAk31aIg_1tL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;그 때 작용하는 사회자본&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규숙련자가 이 커뮤니티의 규범에 익숙해지는데까지는 퍼트넘과 콜먼이 말한 사회자본이 중요&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;이후에는 린이나 버트나 부르디외가 말한 사회자본이 중요&amp;nbsp;&lt;/div&gt;&lt;div&gt;퍼트넘이나 콜먼이 말한 사회자본위로 개인의 사회자본이 쌓여간다.&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="110" y="-320" as="geometry" />
         </mxCell>
       </root>
