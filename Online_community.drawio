@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8qbT8sGyD4EmbGrTxMKR">
-    <mxGraphModel dx="2472" dy="3162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,7 +298,7 @@
             <mxPoint x="2240" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgDSCae3wYclYwrI2jE5-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;학력은 사회자본인가? collective knowledge는 사회자본인가?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#39;디인사 학생들끼리 친해지기&#39;, 과연 어떤 사회자본을 쌓기 위한 노력인가&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;근데 왜 사회자본에 대한 관심이 식었나?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;개인이 아닌 집단을 향하는 사회 자본을 정말로 측정할 수 있나?(특히 퍼트넘)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="TgDSCae3wYclYwrI2jE5-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;학력은 사회자본인가? collective knowledge는 사회자본인가?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&#39;디인사 학생들끼리 친해지기&#39;, 과연 어떤 사회자본을 쌓기 위한 노력인가&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;근데 왜 사회자본에 대한 관심이 식었나?&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;보다는 쓰는 방법을 잊어버린건 아닐까&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;개인이 아닌 집단을 향하는 사회 자본을 정말로 측정할 수 있나?(특히 퍼트넘)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="90" width="534" x="787" y="271" as="geometry" />
         </mxCell>
         <mxCell id="TgDSCae3wYclYwrI2jE5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
@@ -449,9 +449,6 @@
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;그 당시 사회자본이 증가, 보조, 감소하는 이유들에 대해 서술하고, 현재의 인터넷 환경에서는 어떻게 변화했는지?&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;사회자본을 네트워크로 측정한 논문이 없습니다...?&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;퍼트넘 계열은 측정이 힘드니... 그런것일까요?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;웰먼 말고는 없는걸까요?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="98.25" width="618.25" x="2440.75" y="-334.12" as="geometry" />
-        </mxCell>
-        <mxCell id="QzK8wbVYhlptqKk_Mqtt-1" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SkhLLc9zeO8zVeCm2dUm-18">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OumlLCBTHmVW-nY39qLK-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티의&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;사회자본?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="1589" y="19" as="geometry" />
@@ -1082,6 +1079,9 @@
         </mxCell>
         <mxCell id="Oi-HcA_0gKfyJwo0JgdZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Persistent-pervasive community&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Social capital, Linked lives, The cost of caring, Collective action, The spiral of silence&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="73.15" width="192.18" x="2162.48" y="-652" as="geometry" />
+        </mxCell>
+        <mxCell id="QzK8wbVYhlptqKk_Mqtt-1" edge="1" parent="1" source="OumlLCBTHmVW-nY39qLK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SkhLLc9zeO8zVeCm2dUm-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
