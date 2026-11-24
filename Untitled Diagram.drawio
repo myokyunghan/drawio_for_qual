@@ -67,7 +67,7 @@
             <mxPoint x="865" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;뭐 이런거죠 여기에 순환은 없다&lt;/div&gt;&lt;div&gt;위계만있다&lt;/div&gt;" vertex="1">
+        <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;뭐 이런거죠 여기에 순환은 없다&lt;/div&gt;&lt;div&gt;위계만있다 근데 그게 바뀐다.&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="200" x="-570" y="390" as="geometry" />
         </mxCell>
         <mxCell id="sQuDpqLpDAk31aIg_1tL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -256,7 +256,7 @@
         <mxCell id="scfXBnfajFlrqylB7pyz-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2023.03" vertex="1">
           <mxGeometry height="30" width="60" x="1040" y="931" as="geometry" />
         </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만을 못쓰는 이유&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;베어만의 구조를 써도 기존의 사용자들의 패턴을 바꿀 것이라고 생각함 그게 베어만이든 네트워크 연구잗들이 내놓은 이론이든&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="scfXBnfajFlrqylB7pyz-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만을 못쓰는 이유&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;베어만의 구조를 써도 기존의 사용자들의 패턴을 바꿀 것이라고 생각함 그게 베어만이든 네트워크 연구잗들이 내놓은 이론이든&lt;/div&gt;&lt;div&gt;&amp;nbsp;못잡아낼수도&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="760" y="320" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;이 설계의 문제&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;다르다가 코비드 때문이다로 넘어갈 수가 없음... 알수 없음&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;외적 타당성 이런것들... 재택이나 이런것때문 부수적인 효과들 때문일수도 있구나&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
