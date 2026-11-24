@@ -149,7 +149,7 @@
             <mxPoint x="760" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-13" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#000000;verticalAlign=top;" value="">
+        <mxCell id="scfXBnfajFlrqylB7pyz-13" edge="1" parent="1" source="scfXBnfajFlrqylB7pyz-37" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#000000;verticalAlign=top;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1000" y="880" as="sourcePoint" />
             <mxPoint x="1000" y="550" as="targetPoint" />
@@ -210,7 +210,7 @@
           <mxGeometry height="30" width="60" x="1030" y="730" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="240" x="880" y="600" as="geometry" />
+          <mxGeometry height="40" width="240" x="880" y="550" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-34" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelPerimeter=1;direction=west;" value="" vertex="1">
           <mxGeometry height="170" width="50" x="1127" y="615" as="geometry" />
@@ -218,8 +218,20 @@
         <mxCell id="scfXBnfajFlrqylB7pyz-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="1. cohort1의 데이터로 TERGM 수행하여 2020.03 부터 2022.03 네트워크 예측&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.예측네트워크와 cohort 2(활동),&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;cohort&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;3 (가입&amp;amp;활동)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;비교&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="420" x="1177" y="672.5" as="geometry" />
         </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="예측 네트워크" vertex="1">
-          <mxGeometry height="30" width="90" x="965" y="570" as="geometry" />
+        <mxCell id="scfXBnfajFlrqylB7pyz-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="예측 네트워크" vertex="1">
+          <mxGeometry height="30" width="90" x="955" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="scfXBnfajFlrqylB7pyz-38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#000000;verticalAlign=top;" target="scfXBnfajFlrqylB7pyz-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1000" y="880" as="sourcePoint" />
+            <mxPoint x="1000" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scfXBnfajFlrqylB7pyz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
+          <mxGeometry height="40" width="240" x="880" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="scfXBnfajFlrqylB7pyz-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="실제 네트워크" vertex="1">
+          <mxGeometry height="30" width="90" x="960" y="605" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
