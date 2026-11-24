@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2241" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2991" dy="2253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
         <mxCell id="sQuDpqLpDAk31aIg_1tL-17" parent="1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" value="베어만 느낌으로&lt;div&gt;&amp;nbsp;푸는건 어때요?&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="150" x="790" y="326" as="geometry" />
         </mxCell>
-        <mxCell id="i8fQaVeubVfTYUHAdPcI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;문제점&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;네트워크 이론에서 조명하는 부분 자체가 결국 네트워크에서 자리를 잡은 사람들에 대한 이야기만 하지, 신규사용자와 같은 새로 들어온 네트워크들에 대한 정의는 하지 않고 있음&lt;/div&gt;" vertex="1">
+        <mxCell id="i8fQaVeubVfTYUHAdPcI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;문제점&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;네트워크 이론에서 조명하는 부분 자체가 결국 네트워크에서 자리를 잡은 사람들에 대한 이야기만 하지, 신규사용자와 같은 새로 들어온 네트워크들에 대한 정의는 하지 않고 있음&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그래서 반대로 그로 인해 기존에 자리를 잡고 있던 사람들이 어떻게 변했는지로 봐야한다.&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="-460" y="380" as="geometry" />
         </mxCell>
       </root>
