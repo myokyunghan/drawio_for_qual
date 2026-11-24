@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="1702" dy="2215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2688" dy="2253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,13 +56,15 @@
         <mxCell id="UHKvrZoLikHgII5Ms00M-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;closure&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규 유입이 들어오면 사실 그 때문에 더더욱 양극화나 집단분리가 될 수도 있을 것같다. 왜냐면 그들이 코어가 해야하는 역할이 분명해지기 때문에&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그래서 강한 core와 periphery로 나뉠수도 있음&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="90" y="201" as="geometry" />
         </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-2" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="sQuDpqLpDAk31aIg_1tL-17">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="scfXBnfajFlrqylB7pyz-2" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="scfXBnfajFlrqylB7pyz-49">
+          <mxGeometry relative="1" x="-0.0758" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="485" />
-              <mxPoint x="210" y="440" />
-              <mxPoint x="865" y="440" />
+              <mxPoint x="210" y="490" />
+              <mxPoint x="865" y="490" />
+              <mxPoint x="865" y="446" />
             </Array>
+            <mxPoint x="865" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;뭐 이런거죠 여기에 순환은 없다&lt;/div&gt;&lt;div&gt;위계만있다&lt;/div&gt;" vertex="1">
@@ -113,14 +115,11 @@
         <mxCell id="sQuDpqLpDAk31aIg_1tL-16" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=27;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="시뮬레이션이 있으면 재미있을 텐데말이죠" vertex="1">
           <mxGeometry height="150" width="150" x="670" y="-60" as="geometry" />
         </mxCell>
-        <mxCell id="sQuDpqLpDAk31aIg_1tL-17" parent="1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" value="베어만 느낌으로&lt;div&gt;&amp;nbsp;푸는건 어때요?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="150" x="790" y="326" as="geometry" />
-        </mxCell>
         <mxCell id="i8fQaVeubVfTYUHAdPcI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;문제점&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;네트워크 이론에서 조명하는 부분 자체가 결국 네트워크에서 자리를 잡은 사람들에 대한 이야기만 하지, 신규사용자와 같은 새로 들어온 네트워크들에 대한 정의는 하지 않고 있음&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그래서 반대로 그로 인해 기존에 자리를 잡고 있던 사람들이 어떻게 변했는지로 봐야한다.&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="-361" y="196" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=17;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="어떤 사람에게는 임의로 조치를 하고 다른 사람에게는 하지 않는 사건을 찾아서 분석하는것이랍니다.." vertex="1">
-          <mxGeometry height="150" width="150" x="1140" y="321" as="geometry" />
+          <mxGeometry height="150" width="150" x="1190" y="140" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -256,6 +255,12 @@
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2023.03" vertex="1">
           <mxGeometry height="30" width="60" x="1040" y="931" as="geometry" />
+        </mxCell>
+        <mxCell id="scfXBnfajFlrqylB7pyz-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만을 못쓰는 이유&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;베어만의 구조를 써도 기존의 사용자들의 패턴을 바꿀 것이라고 생각함 그게 베어만이든 네트워크 연구잗들이 내놓은 이론이든&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="760" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="scfXBnfajFlrqylB7pyz-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;이 설계의 문제&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;다르다가 코비드 때문이다로 넘어갈 수가 없음... 알수 없음&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;외적 타당성 이런것들... 재택이나 이런것때문 부수적인 효과들 때문일수도 있구나&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="980" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
