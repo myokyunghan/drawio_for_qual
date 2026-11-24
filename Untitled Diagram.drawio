@@ -145,7 +145,7 @@
           <mxGeometry height="170" width="200" x="-30" y="200" as="geometry" />
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="-240" y="400" as="geometry" />
+          <mxGeometry height="170" width="200" x="-245" y="380" as="geometry" />
         </mxCell>
         <mxCell id="sQuDpqLpDAk31aIg_1tL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="930" x="-610" y="-399" as="geometry" />
