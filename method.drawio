@@ -283,6 +283,9 @@
         <mxCell id="QCQ08sh0SuHf0XfoPyET-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Design-based Supervised Learning, (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;DSL&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;),&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Purpoisive sampleing&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="125" x="775" y="1297" as="geometry" />
         </mxCell>
+        <mxCell id="G1oZnw2O2sdmTWYqq7Yd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Silicon sampling" vertex="1">
+          <mxGeometry height="20" width="110" x="787.5" y="1049" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
