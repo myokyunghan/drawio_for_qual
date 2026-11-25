@@ -280,6 +280,9 @@
         <mxCell id="XZXN6kispDkRoazxSK1b-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H1.&lt;/strong&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;커뮤니티에 축적된 지식이 많을수록 신규 사용자가 숙련 사용자로 성장할 가능성이 높아진다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q2 (방법론)&lt;/strong&gt; MK는 H1을 검증하기 위해 자연어 처리 기법(LLM 포함)으로 신규 사용자가 작성한 게시물 텍스트를 분석해, 이들이 숙련 사용자로 성장하는지를 측정하려 한다. 이 측정의 타당도를 위협하는 요인은 무엇이며, 연구자는 타당도를 어떻게 확보하고 검증할 수 있는지 논하시오.&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="863" x="521" y="-1200" as="geometry" />
         </mxCell>
+        <mxCell id="XZXN6kispDkRoazxSK1b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;그 때 작용하는 사회자본&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;퍼트넘이나 콜먼이 말한 사회자본에서 중요한게 closure였는데... 우선 온라인 커뮤니티가 그렇게 돌아가지가 않음 그리고 그 구조가 정말 폐쇄적인지는 그래서 그런 규범이 돌아가는지는 우리가 알길이 없음&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="200" x="-110" y="-130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
