@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2241" dy="3162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="3133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,12 +105,6 @@
         </mxCell>
         <mxCell id="sQuDpqLpDAk31aIg_1tL-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;If 커뮤니티의 숙련사용자라면&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;사실 reputation으로만으로도 가능할지도&lt;/div&gt;&lt;div&gt;혹은 접속기록이나 활동기록으로도 볼 수 있다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;아니면 meta-stackoverflow를 본다거나 여기서 활동하는 사람들이 훨씬 더 커뮤니티에 숙련되어있고 그 norm을 직접 규정하려 하는 사람들일 수 있다.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;포인트만 많은 사람(cherry picker일 수 있음) vs 커뮤니티 운영방침이나 규범에 정말 관심이 있는 사람(meta stackexchange)&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="750" y="-320" as="geometry" />
-        </mxCell>
-        <mxCell id="sQuDpqLpDAk31aIg_1tL-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;그 때 작용하는 사회자본&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;콜먼, 퍼트넘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;부르디외 린 버트&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="971" y="-320" as="geometry" />
-        </mxCell>
-        <mxCell id="sQuDpqLpDAk31aIg_1tL-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;그 때 작용하는 사회자본&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규숙련자가 이 커뮤니티의 규범에 익숙해지는데까지는 퍼트넘과 콜먼이 말한 사회자본이 중요&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;이후에는 린이나 버트나 부르디외가 말한 사회자본이 중요&amp;nbsp;&lt;/div&gt;&lt;div&gt;퍼트넘이나 콜먼이 말한 사회자본위로 개인의 사회자본이 쌓여간다.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="1200" y="-320" as="geometry" />
         </mxCell>
         <mxCell id="sQuDpqLpDAk31aIg_1tL-16" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=27;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="시뮬레이션이 있으면 재미있을 텐데말이죠" vertex="1">
           <mxGeometry height="150" width="150" x="670" y="-60" as="geometry" />
@@ -285,6 +279,9 @@
         </mxCell>
         <mxCell id="XZXN6kispDkRoazxSK1b-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;가설과 관련하여&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;사실 그런의미에서 가설도 잘못되긴함&lt;/div&gt;&lt;div&gt;커뮤니티에 축적된 지식이 많을수록 그걸 활용하는 사람들이 많아서 성장한다 이지 이게 커뮤니티혹은 사회자본과는 연결짓기가 힘들다고 생각을 했다&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="-561" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="XZXN6kispDkRoazxSK1b-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;If 프로그래밍 숙련사용자라면&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;선수지식에 대한 개념을 활용해서&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;아니면 meta-stackoverflow를 본다거나 여기서 활동하는 사람들이 훨씬 더 커뮤니티에 숙련되어있고 그 norm을 직접 규정하려 하는 사람들일 수 있다.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;포인트만 많은 사람(cherry picker일 수 있음) vs 커뮤니티 운영방침이나 규범에 정말 관심이 있는 사람(meta stackexchange)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="200" x="971" y="-320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
