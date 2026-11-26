@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="720" y="630" as="geometry" />
+          <mxGeometry height="40" width="240" x="720" y="630" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#000000;verticalAlign=top;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -154,11 +154,8 @@
         <mxCell id="scfXBnfajFlrqylB7pyz-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cohort2" vertex="1">
           <mxGeometry height="30" width="60" x="640" y="715" as="geometry" />
         </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cohort3" vertex="1">
-          <mxGeometry height="30" width="60" x="640" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="1. 각 코호트별로 이후 2년의 네트워크를 예측(TERGM)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.각 코호트별 예측 네트워크(t+1)끼리 비교&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="420" x="830" y="510" as="geometry" />
+        <mxCell id="scfXBnfajFlrqylB7pyz-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="1. cohort1에 대해서 covid이후의 t+1과 t+2를 예측&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.cohort2와 비교&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="420" x="850" y="510" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#000000;verticalAlign=top;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -223,38 +220,20 @@
             <mxPoint x="960" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-5" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="840" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-32" parent="iCg-rgtIp0nho2hWk2y6-5" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-36" parent="iCg-rgtIp0nho2hWk2y6-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" value="네트워크 예측(t+1)" vertex="1">
-          <mxGeometry height="30" width="90" x="15" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="840" y="715" as="geometry" />
-        </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="961" y="715" as="geometry" />
-        </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-10" parent="iCg-rgtIp0nho2hWk2y6-9" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" as="geometry" />
-        </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-11" parent="iCg-rgtIp0nho2hWk2y6-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" value="네트워크 예측(t+1)" vertex="1">
-          <mxGeometry height="30" width="90" x="15" y="5" as="geometry" />
-        </mxCell>
         <mxCell id="iCg-rgtIp0nho2hWk2y6-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="961" y="790" as="geometry" />
+          <mxGeometry height="40" width="240" x="960" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-13" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="1080" y="790" as="geometry" />
+        <mxCell id="iCg-rgtIp0nho2hWk2y6-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="240" x="960" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-14" parent="iCg-rgtIp0nho2hWk2y6-13" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
-          <mxGeometry height="40" width="120" as="geometry" />
+        <mxCell id="iCg-rgtIp0nho2hWk2y6-18" parent="iCg-rgtIp0nho2hWk2y6-17" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
+          <mxGeometry height="40" width="240" as="geometry" />
         </mxCell>
-        <mxCell id="iCg-rgtIp0nho2hWk2y6-15" parent="iCg-rgtIp0nho2hWk2y6-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" value="네트워크 예측(t+1)" vertex="1">
+        <mxCell id="iCg-rgtIp0nho2hWk2y6-19" parent="iCg-rgtIp0nho2hWk2y6-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" value="네트워크 예측(t+1)" vertex="1">
           <mxGeometry height="30" width="90" x="15" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCg-rgtIp0nho2hWk2y6-21" parent="iCg-rgtIp0nho2hWk2y6-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" value="네트워크 예측(t+2)" vertex="1">
+          <mxGeometry height="30" width="90" x="130" y="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
