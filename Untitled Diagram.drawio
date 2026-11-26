@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2241" dy="3162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="UHKvrZoLikHgII5Ms00M-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q3 (이론)&lt;/strong&gt; H2는 신규 사용자의 유입이 상호작용 양상을 바꾼다고 보지만, 어떤 방향으로 바뀌는지는 말하지 않는다. 네트워크 이론 중 하나를 골라 그 선택을 정당화하고, 그 이론에 근거해 H2를 방향이 있는 가설로 구체화한 뒤, 그 이론이 이 변화를 어디까지 설명할 수 있고 어디서부터 설명하지 못하는지 논하시오.&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="863" x="-543" y="121" as="geometry" />
         </mxCell>
-        <mxCell id="UHKvrZoLikHgII5Ms00M-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;weak tie/bridge/broker&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;strength of weak tie&lt;/div&gt;&lt;div&gt;briding역할을 할 수 있는 사람들이 많아진다? 진짜 그런지 시간의 흐름에 따라 본다?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;bridging structural hole&lt;/div&gt;&lt;div&gt;그때 유행한 언어들, 기술들&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;한시점으로 보면 안되고 시계열로 봐야함&lt;/div&gt;" vertex="1">
+        <mxCell id="UHKvrZoLikHgII5Ms00M-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;weak tie/bridge/broker&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;기존 코어한 집단을이 깨지고 그들을 잇는&amp;nbsp; bridge 나 broker가 생기면서 이득을 보는 사람이 생길 것이다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;위의 말을 weak tie이론 하나로 다 설명할 수 없음&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="200" x="-140" y="196" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-3" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="UHKvrZoLikHgII5Ms00M-9">
@@ -57,13 +57,7 @@
           <mxGeometry height="170" width="200" x="90" y="201" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-2" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="scfXBnfajFlrqylB7pyz-49">
-          <mxGeometry relative="1" x="-0.0758" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="485" />
-              <mxPoint x="210" y="490" />
-              <mxPoint x="865" y="490" />
-              <mxPoint x="865" y="446" />
-            </Array>
+          <mxGeometry relative="1" x="-0.0687" as="geometry">
             <mxPoint x="865" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
