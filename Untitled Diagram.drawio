@@ -123,7 +123,7 @@
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#FF8000;verticalAlign=top;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="710" y="930" as="sourcePoint" />
+            <mxPoint x="710" y="700" as="sourcePoint" />
             <mxPoint x="710" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -174,24 +174,6 @@
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cohort3" vertex="1">
           <mxGeometry height="30" width="60" x="390" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="가입" vertex="1">
-          <mxGeometry height="30" width="60" x="500" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="활동" vertex="1">
-          <mxGeometry height="30" width="60" x="620" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="가입" vertex="1">
-          <mxGeometry height="30" width="60" x="620" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="활동" vertex="1">
-          <mxGeometry height="30" width="60" x="740" y="700" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="가입" vertex="1">
-          <mxGeometry height="30" width="60" x="740" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="활동" vertex="1">
-          <mxGeometry height="30" width="60" x="860" y="780" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6E6E6;sketch=1;" value="" vertex="1">
           <mxGeometry height="40" width="120" x="710" y="650" as="geometry" />
@@ -285,6 +267,12 @@
         </mxCell>
         <mxCell id="iCg-rgtIp0nho2hWk2y6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q3 (이론)&lt;/strong&gt; H2는 신규 사용자의 유입이 상호작용 양상을 바꾼다고 보지만, 어떤 방향으로 바뀌는지는 말하지 않는다. 네트워크 이론 중 하나를 골라 그 선택을 정당화하고, 그 이론에 근거해 H2를 방향이 있는 가설로 구체화한 뒤, 그 이론이 이 변화를 어디까지 설명할 수 있고 어디서부터 설명하지 못하는지 논하시오.&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="863" x="-543" y="-1070" as="geometry" />
+        </mxCell>
+        <mxCell id="iCg-rgtIp0nho2hWk2y6-4" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#FF8000;verticalAlign=top;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="710" y="930" as="sourcePoint" />
+            <mxPoint x="710" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
