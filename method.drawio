@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2688" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2937" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,9 @@
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="생태순간평가" vertex="1">
           <mxGeometry height="20" width="110" x="670" y="1021" as="geometry" />
         </mxCell>
+        <mxCell id="e2snVWpMHN9uSRTsWqN6-1" edge="1" parent="1" source="Mha8lvZreAM4OsU9ekNZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;dashed=1;" target="G1oZnw2O2sdmTWYqq7Yd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mha8lvZreAM4OsU9ekNZ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="위키 설문조사" vertex="1">
           <mxGeometry height="20" width="110" x="670" y="1049" as="geometry" />
         </mxCell>
@@ -283,8 +286,8 @@
         <mxCell id="QCQ08sh0SuHf0XfoPyET-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Design-based Supervised Learning, (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;DSL&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;),&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Purpoisive sampleing&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="125" x="775" y="1297" as="geometry" />
         </mxCell>
-        <mxCell id="G1oZnw2O2sdmTWYqq7Yd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Silicon sampling" vertex="1">
-          <mxGeometry height="20" width="110" x="787.5" y="1049" as="geometry" />
+        <mxCell id="G1oZnw2O2sdmTWYqq7Yd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="homogenious responses" vertex="1">
+          <mxGeometry height="30" width="110" x="790" y="1039" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
