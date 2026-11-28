@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="2491" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6198" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,6 +267,15 @@
         </mxCell>
         <mxCell id="iCg-rgtIp0nho2hWk2y6-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;신규유입의 행동 패턴 비교&lt;/div&gt;1. 코호트별로 1년을 기준으로 t+1예측&lt;div&gt;2. 각 코호트의 t+1 비교&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="420" x="1210" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="F2dosl2AqydcmtWb7kiH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="740" x="470" y="-1070" as="geometry" />
+        </mxCell>
+        <mxCell id="F2dosl2AqydcmtWb7kiH-2" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Q4" vertex="1">
+          <mxGeometry height="60" width="100" x="430" y="-1070" as="geometry" />
+        </mxCell>
+        <mxCell id="F2dosl2AqydcmtWb7kiH-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q4 (방법론)&lt;/strong&gt; MK는 COVID-19 이전과 이후의 상호작용을 비교해 H2를 검증하려 한다. 디지털 흔적 데이터의 특성을 고려할 때, 이 전후 비교에서 관찰된 차이를 신규 사용자 유입의 효과로 해석하려면 어떤 문제를 해결해야 하며, 이를 위해 어떤 연구 설계가 필요한지 논하시오.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="670" x="537" y="-1071" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
