@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="3870" dy="3663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3967" dy="3711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,20 +44,21 @@
           <mxGeometry height="60" width="863" x="-543" y="121" as="geometry" />
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;weak tie/bridge/broker&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;기존 코어한 집단을이 깨지고 그들을 잇는&amp;nbsp; bridge 나 broker가 생기면서 이득을 보는 사람이 생길 것이다.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;위의 말을 weak tie이론 하나로 다 설명할 수 없음&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="-140" y="196" as="geometry" />
+          <mxGeometry height="190" width="200" x="-350" y="196" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-3" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="UHKvrZoLikHgII5Ms00M-9">
           <mxGeometry relative="1" x="0.0157" as="geometry">
             <Array as="points">
-              <mxPoint x="-470" y="386" />
+              <mxPoint x="-470" y="460" />
+              <mxPoint x="630" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;상호작용의 정의&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;상호작용을 어떻게 정의할것이냐&lt;/div&gt;&lt;div&gt;질의응답한번 하면 되는것이냐?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="-570" y="196" as="geometry" />
+          <mxGeometry height="190" width="200" x="-570" y="196" as="geometry" />
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;closure&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;신규 유입이 들어오면 사실 그 때문에 더더욱 양극화나 집단분리가 될 수도 있을 것같다. 왜냐면 그들이 코어가 해야하는 역할이 분명해지기 때문에&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그래서 강한 core와 periphery로 나뉠수도 있음&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="90" y="196" as="geometry" />
+          <mxGeometry height="190" width="200" x="-140" y="196" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-2" edge="1" parent="1" source="UHKvrZoLikHgII5Ms00M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="scfXBnfajFlrqylB7pyz-49">
           <mxGeometry relative="1" x="-0.0687" as="geometry">
@@ -65,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UHKvrZoLikHgII5Ms00M-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;베어만&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;전체 구조를 설명하는데, 왜 그렇게 변화하는지에 대해서 설명하기는 좋지만 이 논문에서도 그랬듯이 몇개의 예시를 놓고 실험을 하지 않는한 알수가 없다. 그래서 한계가 있는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;근데 어떻게 될지 진짜 모르겠다&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;뭐 이런거죠 여기에 순환은 없다&lt;/div&gt;&lt;div&gt;위계만있다 근데 그게 바뀐다.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="200" x="-570" y="390" as="geometry" />
+          <mxGeometry height="190" width="200" x="-570" y="489" as="geometry" />
         </mxCell>
         <mxCell id="sQuDpqLpDAk31aIg_1tL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="930" x="-610" y="-399" as="geometry" />
@@ -104,7 +105,7 @@
           <mxGeometry height="170" width="360" x="750" y="-320" as="geometry" />
         </mxCell>
         <mxCell id="i8fQaVeubVfTYUHAdPcI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;" value="&lt;b&gt;문제점&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;네트워크 이론에서 조명하는 부분 자체가 결국 네트워크에서 자리를 잡은 사람들에 대한 이야기만 하지, 신규사용자와 같은 새로 들어온 네트워크들에 대한 정의는 하지 않고 있음&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그래서 반대로 그로 인해 기존에 자리를 잡고 있던 사람들이 어떻게 변했는지로 봐야한다.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="200" x="-361" y="196" as="geometry" />
+          <mxGeometry height="170" width="200" x="81" y="196" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-4" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=17;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" value="어떤 사람에게는 임의로 조치를 하고 다른 사람에게는 하지 않는 사건을 찾아서 분석하는것이랍니다.." vertex="1">
           <mxGeometry height="150" width="150" x="1190" y="140" as="geometry" />
