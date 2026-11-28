@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="PT5VPLRIpPqqzDmgcblr">
-    <mxGraphModel dx="3967" dy="3711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3518" dy="3515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
         <mxCell id="scfXBnfajFlrqylB7pyz-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2022.03" vertex="1">
           <mxGeometry height="30" width="60" x="1170" y="1041" as="geometry" />
         </mxCell>
-        <mxCell id="scfXBnfajFlrqylB7pyz-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;covid에대한 효과 비교&lt;/div&gt;1. cohort1에 대해서 covid이후의 t+1과 t+2를 예측&amp;nbsp;&lt;div&gt;2.cohort2와 비교&lt;/div&gt;" vertex="1">
+        <mxCell id="scfXBnfajFlrqylB7pyz-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;covid 기준 상호작용 변화 비교&lt;/div&gt;1. cohort1에 대해서 covid이후의 t+1과 t+2를 예측&amp;nbsp;&lt;div&gt;2.cohort2와 비교&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="420" x="1210" y="655" as="geometry" />
         </mxCell>
         <mxCell id="scfXBnfajFlrqylB7pyz-38" edge="1" parent="1" source="scfXBnfajFlrqylB7pyz-19" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=#000000;verticalAlign=top;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
@@ -273,10 +273,10 @@
           <mxGeometry height="60" width="914" x="470" y="-1070" as="geometry" />
         </mxCell>
         <mxCell id="F2dosl2AqydcmtWb7kiH-2" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" value="Q4" vertex="1">
-          <mxGeometry height="60" width="100" x="430" y="-1070" as="geometry" />
+          <mxGeometry height="60" width="100" x="414" y="-1070" as="geometry" />
         </mxCell>
         <mxCell id="F2dosl2AqydcmtWb7kiH-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p&gt;&lt;strong&gt;H2.&lt;/strong&gt; COVID-19 이후 신규 사용자의 대규모 유입으로 커뮤니티 사용자들 간의 상호작용 양상이 변할 것이다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Q4 (방법론)&lt;/strong&gt; MK는 COVID-19 이전과 이후의 상호작용을 비교해 H2를 검증하려 한다. 디지털 흔적 데이터의 특성을 고려할 때, 이 전후 비교에서 관찰된 차이를 신규 사용자 유입의 효과로 해석하려면 어떤 문제를 해결해야 하며, 이를 위해 어떤 연구 설계가 필요한지 논하시오.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="854" x="530" y="-1069" as="geometry" />
+          <mxGeometry height="60" width="863" x="521" y="-1069" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
